@@ -1,0 +1,964 @@
+﻿,0
+para0s0,"Goethe, the connoisseur and exponent of the Greek spirit, received benevolently the lovingly presented beginning of a collection of writings and essays, which are destined to enlighten now and then the vast edifice of knowledge in which that life-improving spirit originally dwelt."
+para1s0,"Who among the Germans could be thought of more for an undertaking of this kind than the one in whose works and designs, in the midst of daunting modern surroundings, that benevolent spirit took a second home?"
+para1s1,"We would remember him before anyone else if one of the editors had not earlier received his friendly call to new, changed activity, a call that promised even the less accomplished indulgent applause from like-minded readers."
+para2s0,"But not to assure themselves of a favoring genius of our literature , the entrepreneurs of this magazine wanted to decorate their first sheet with His name."
+para2s1,This public adornment would not have been necessary.
+para2s2,"On such a good occasion, they wanted to tell the educable youth of the fatherland with how heartfelt feeling the one is to be honored who has long since answered the tossed question, to which goal the studies of antiquity lead, more adequately and more beautifully than the best discussion could ever do."
+para2s3,"For from where could such elevation above the narrow circles and stomping grounds of ordinary contemporary life, from where could such views of the world and art and science be gained, than from the inner sanctum of the ancient arts of the Muses, which finally once again opened up in a naturally kindred mind?"
+para2s4,"To learn to recognize a hypophet of this merit, who not only interpreted the sayings and ideas of the silenced oracles, but himself brought forth much worthy of interpretation, and to fathom his often hidden meaning, this alone would be worthy of creation from the eternal original sources of beauty."
+para3s0,"May your word and reputation, most worthy of our nobles, help us henceforth to resist vigorously that the palladium of this knowledge is not snatched away from the fatherland by unholy hands; as we then have well-founded hope to preserve in it an inheritance for our descendants that cannot be lost."
+para3s1,"Wherever the reason may be sought, in the nature of our language, or in the kinship of one of our original tribes with the Hellenic, or wherever else: we Germans, after so many modifications, agree most willingly among the moderns to the ways of Greek song and speech; we least of all recoil from the alienations with which those heroes impede the entrance of others; we alone disdain more and more to embellish the simple dignity of their works, to want to master their famous indecencies."
+para3s2,"But who already felt so much of the divine breath at home, the serious thought becomes easier to enter into the whole cult of the inspiring gods."
+para4s0,Only let us no less prevent that to these orgies not the motley people crowd without preparation and devotion to stagger around with the staff of enthusiasm.
+para4s1,"We gladly welcome many who seek amusement and refreshment in our circles after the seriousness of more severe sciences or the aridity of merely acquisitive ones; likewise those who announce themselves as eager lovers of everything beautiful; even if some of the actual comrades do not exactly embrace the highest of science according to the richest points of view, and content themselves with one and another part as diligent workers, nevertheless caught in the delusion to really love what he only does as his day's work: but let each one of them ennoble his effort and even his toy by sensible treatment and by the d bhirection according to the recognized best purposes."
+para4s2,"Thus the German, without despising the assiduity of the merely learned collector, without rejecting the mere lover of general education, becomes and remains everywhere the deeper researcher and interpreter of the great and beautiful flowing from antiquity; and he uses such treasures to fertilize, under the change of changeable public destinies, the spirit of his nation, whose better ones are by no means unprepared by the study of native works to receive the higher consecration."
+para5s0,"May you, connoisseur and performer of the Greek spirit, be for a long time yet an effective protector and satisfied spectator of such useful endeavors! May your beloved Weimar, under its splendid princely house celebrated by all the muses, soon shining again in rejuvenated bloom, continue to awaken new beautiful talents for the rest of Germany! May you never lack strength and undisturbed leisure to illuminate, on the path in which your life itself imitates the gradual course of the Greeks, now this, now another of the most charming arts, and soon also dark rooms of often desecrated sciences!           "
+para6s0,The content of this essay should have served for some time as an introduction to a revision or encyclopedic survey of that knowledge which is usually called philological.
+para6s1,"Between the years 1783 and 1790, when the author began to teach at a then famous seat of German scholarship, he felt himself without respite troubled by the desire to give himself and his audience a more definite account of the general concept, content, connection and main purpose of those studies; about all of which the writings of the most recognized connoisseurs offered little that was satisfactory."
+para6s2,"Some of those who casually engaged in such reflections wavered undecidedly about the noblest tendencies of this whole branch of scholarship, like certain members of a secret society, not always novices, questioning each other about the idea and intention of their order; many claimed that the ancient languages were learned for the sake of history and so-called knowledge, whereas most regarded the reading and understanding of writers in the basic languages as the ultimate end, and the most varied occupation with knowledge as a mere means of understanding the writers."
+para6s3,"Here and there one heard even the opinion that in general the pursuit of these studies might be best justified by the close connection in which they stood with the entire literature of the moderns, especially with some of our most useful and usable sciences, since, of course, the first rank actually belonged to such knowledge which constituted the foundations of today's social prosperity and all bourgeois happiness : a view that must please many a wise statesman who values every science precisely to the extent that it may contribute to the arts of acquisition in peace and in war, to the improvement of finances, of factories, of trade, of agriculture and domestic economy."
+para6s4," Haec studia annonam non reddunt viliorem , someone is said to have said seriously about the language knowledge of antiquity."
+para6s5,"The Greeks had an expressive word for such a way of thinking, which we moderns lack, probably because the idea was long foreign to us, αἰσχροκέρδεια."
+para6s6, 
+para7s0," These and other divergent opinions redoubled the author's zeal to grasp the highest points of view of ancient philology as precisely as possible, and to make an attempt how the individual doctrines, some of which had been expounded at German universities for almost a hundred years, and some of which were still to be worked on subsequently, could be united into an organic whole, in order to raise everything that belongs to a complete knowledge of learned antiquity to the dignity of a well-ordered philosophical-historical science."
+para7s1,With this idea he gave several times repeated lectures under the name of a
+para8s0,A desirable teaching position gave the author the opportunity for more than twenty years to study both the general overview of the
+para9s0,"Berlin, in Jul."
+para9s1,1807.
+para10s0,"In the realm of sciences, which encompass nature and man according to the most diverse views, we see, in addition to the old, universally known areas, individual districts, although of recent cultivation, quickly elevated to prestige and solid connection with the adjacent ones; others, although only cleared for future work, nevertheless hint at their tendencies and some of their possible scope."
+para10s1,"With these new spiritual conquests, the hope of the contribution they promise to the common education delights us in advance, and a liberal estimate, according to such expectations, gladly places them in the ranks of the formerly recognized provinces."
+para10s2,"Less fortunate are those parts of our knowledge which, though known by useful yield and learned cultivators, betray fluctuating limits and indefinite scope in their rich materials, in their various modes of treatment, and even in changing names."
+para10s3,"In such unfavorable position still stands the sum of knowledge, from which we deal."
+para10s4,"They are called philology, classical scholarship, ancient literature, humanistic studies, sometimes with a foreign and quite modern name, beautiful sciences."
+para10s5," The latter name is, it seems, less used by the nation itself, which probably brought it into fashion."
+para10s6,One hears rather Littérature than Belles lettres.
+para10s7,"If, however, a Latin-writing scholar sometimes used it, perhaps even saying litteras bellas, the intention was obviously a joke."
+para10s8,"For our circle of knowledge, the designation is not at all suitable : they have anyway sides that attract by everything else rather than by beauté."
+para10s9,"Again, by old literature one does not really think of a considerable main part, the art of the ancients; since one usually tends to place literature and art, as different, next to each other."
+para10s10,"In another way, the name used in England, classical learning , is too limited: we are dealing here with many writers and knowledge that no one wants to call classical in the old meaning of the word."
+para10s11,"Philology further, according to that sense in which the expression first began to be used in Alexandria (Suet."
+para10s12,"de Gr. 10) The term ""philology"" coincides most with litterature, and is thus subject to similar concerns; even more so today, when philology is often taken to mean linguistics or linguistics in general."
+para10s13,"Finally, the name that one usually hears in our times of humanity, humaniora (in French humanités, in English humanity, in Italian umanità, in Spanish and Portuguese humanidad and humanidades), also this name is from one side too wide, from another too narrow."
+para10s14,M.
+para10s15,s.
+para10s16,a small progr.
+para10s17,From J.
+para10s18,A.
+para10s19,"Ernesti on the word humanitas, or the extract from it in the Clav."
+para10s20,Cic.
+para10s21,u.
+para10s22,d.
+para10s23,W.
+para10s24,"But it is remarkable that the expressions humaniora studia, humaniores litterae are not found in any ancient Latin writer, and could hardly have been in use, because the comparative contains a hint of a relation that certainly did not occur to the ancients when they said studia humanitatis."
+para10s25,"Nevertheless, that designation has become so common that one has several treatises and declamations de litteris humanioribus, by J."
+para10s26,G.
+para10s27,"Walch, by C."
+para10s28,Morning star u.
+para10s29,a.
+para10s30,"But in none of such writings, if I may say so, is there any evidence of the age and authenticity of the meaning; everyone takes the word as accepted and well brought, without a scruple such as Latin humanists might have had."
+para10s31,"The usage seems to date from the Middle Ages ; but it has always remained uncertain to me whether it arose earlier in Italy, or in Scotland, where it had been common for many centuries."
+para10s32,"  The diversity of the titles under which this part of scholarship announces itself even has a detrimental effect on the reputation of the knowledge that is otherwise recognized as useful, because of the various claims pointing here and there that lie in the titles."
+para10s33,It is even worse when such claims are not only vague but also partly unfounded.
+para10s34,"For who today would want philology, taken as litterature or as linguistics, and the studies that lead to humanity d."
+para10s35,h.
+para10s36,"to the higher education of pure humanity, to a few nations and to the insights drawn from their remaining stock of monuments?"
+para10s37,"The worst service, however, is often done to a science by its own professors, who sometimes present its value and influence on other kinds of education too generally, and sometimes get embarrassed themselves when they have to explain themselves clearly about the concept of their efforts and their purposes."
+para10s38,This encountered many and well-known philologists since then.
+para10s39,"Some complained about the lack of respect for their studies, while they knew only a small part of them and worked on a much smaller one; others confessed that it seemed hardly possible to assign a separate field and secure boundaries to ancient philology, given the close connection between it and many of today's sciences."
+para10s40," Thus Heeren, in the entrances of his useful book: Geschichte des Stadium der klassischen Litteratar , Göttingen, 1797."
+para10s41,8.
+para10s42," Indeed, a little honorable reward for knowledge, which awakened and nourished many a science, if finally nowhere a dwelling remained for them in their own country, precisely because they too often stayed in neighboring regions helping to promote foreign work."
+para11s0,"These considerations lead to the desire for a concise overview of what the so-called philological studies can and should be according to their content and essence, or for an attempt how, for example, the main concept of the whole science can be specified and the objects of it can be enclosed in sharply drawn boundaries, along with an indication of the most general directions in which the treatment of the material, which is to be distributed in many ways, must strive."
+para11s1,"We consider the clarification of this last point to be a highly necessary business, which had to be done a long time ago."
+para11s2,"For as in the sciences which have for their object the nature that surrounds us, so in this, which deals chiefly with the moral side of mankind, all the true and profound sense of study rests upon the highest demands which must guide every single effort, from the boldest flight of scientific divination to the diligence of the laborious collector, and must at last lead the whole to its ultimate ends."
+para11s3,"Here, as in the study of nature, no zeal flourishes for the one who works in any corner of the great field without knowing what his collaborators are striving for around him in other places."
+para12s0,"In order to first determine the material which our science has to treat, we take a look backwards at the course of the preceding centuries from the great migrations of peoples, with which the transformation of the world nearer to us to the Middle Ages, as it were a gap between older and newer culture, takes its beginning."
+para12s1,"There, in the most beautiful regions of the old world, we see a number of peoples acting one after the other and next to each other, who still today announce their former life and work in several or few remnants."
+para12s2,"One would like to include all such peoples together to a single customer; but many causes make here a separation necessary, and do not allow us to put Egyptians, Hebrews, Persians and other nations of the Orient on one line with the Greeks and Romans."
+para12s3,"One of the most important differences between those and these nations is that the former did not rise at all, or only a few steps, above the kind of education that should be called civic policy or civilization, in contrast to higher, actual spiritual culture."
+para12s4,"This kind of culture (whose name, by the way, may be indifferent, if only the matter is distinguished more precisely than hitherto) is busy with the conditions of a life in need of security, order and comfort; it uses for this purpose even certain nobler inventions and knowledge, which, however, mostly found in unscientific ways, as several of the Egyptians and other ancient peoples, should never have aroused the reputation of sublime wisdom; on the other hand, it neither needs nor creates a literature, i. e., a literature of the world."
+para12s5,i.
+para12s6,"a stock of writings, in which not a single caste according to official purposes and needs, but everyone from the nation, who trusts in better insights, presents contributions to the enlightenment of the contemporaries."
+para12s7,"The latter, which in a happily organized people can begin earlier than the order and austerity of the outer life, This was really the case with the Greeks, and remained so until far into the times of their beautiful literature."
+para12s8,One would get too good a idea of the civil policy of this period if one wanted to take its intellectual purposes and monuments of art as a yardstick for that.
+para12s9,"It was the Romans who brought more order and convention into the lives and intercourse of the people than the unpropertied inhabitants of Greece, who were only wealthy and more faithful to nature, were able to do."
+para12s10,"Mores et instituta vitae, sagt Cicero, resque domesticas ac familiaris nos profecto et melius tuemur et lautius."
+para12s11,"But there were several peoples who not only began with this, but also remained with it forever, as the farthest east of Asia has done, similar to such individuals, who do not lack cleanliness, decency and comfort of dwellings, clothes and all surroundings, but never feel the need of higher enlightenment."
+para12s12,"With the Greeks, even the most educated Attics, the opposite often occurred to the point of astonishment, and one neglected as insignificant what we, by virtue of our love of order, are generally accustomed to regard as the basis of spiritual ennoblement itself."
+para12s13,"   has never been done by any people before the Greeks, and none of them gained that higher culture, the spiritual or literary one, before them."
+para12s14,One does not fear to see the peoples of the Orient here estimated under their merit: a closer execution of the above remark would easily avert such suspicion.
+para12s15,"But the merely natural beginnings of spiritual education, which have hardly advanced to the real art of prosaic recitation, and which we have received especially from the Hebrews through their sacred books, bear in all Orientals a character so strikingly different from that of the Greeks; and likewise the best works of art of those regions had, before they were Hellenized, a manner so different from all European taste that they would unite with what Greece and Rome left us only to a very heterogeneous whole."
+para12s16,"Thirdly, in all such peoples we are still deterred by the extremely small number of remaining works, which allow at most a rudimentary understanding of their languages, but not a more intimate comprehension of their spiritual organization and entire idiosyncrasy."
+para12s17,"So we are left with only two nations of antiquity whose knowledge can form a similar science, the Greeks and the Romans."
+para12s18,"Asians and Africans are excluded from our borders as litterarily not cultivated, only civilized peoples; so also the later important Arabs, although they reached a certain degree of learned education with the help of the Greeks, like the Romans before."
+para12s19,"Accordingly, such literature, either fragmentary or still hidden in book dungeons, and far more those of the most distant peoples of Asia, will be left entirely to the Orientalists, who themselves divide into several classes; indeed, it will be permissible, in the spirit of the ancients, who looked down with pride on the barbarians as on ignoble human species, at least the Greeks, to whom, as appears from Aristotle's politics, slavery seemed a natural condition."
+para12s20,"They divided people into three classes: free Greeks, despotic barbarians and serfs."
+para12s21,Their historians and speakers sometimes even set up a kind of legal grounds by virtue of which the non-Hellenes would have to be considered as inferior human species.
+para12s22," The name ""antiquity"" can even be restricted in an exceptional sense to the two peoples refined by intellectual culture, erudition and art."
+para13s0,"The former of these peoples was, as has already been remarked, also the first on earth, in which the impulse to educate oneself in manifold ways arose from the innermost needs of the spirit and mind, and from a passionate tendency to pursue from one object to another a beautifully ordered circle of arts and knowledge arose, which elevated the life of man to the self-interested occupation of his higher powers."
+para13s1,"With a few main strokes, the playful progression is drawn by Horace, Epist."
+para13s2,"H, 1, 93."
+para13s3,"Ut primum positis nugari Graecia bellis Coepit , et in Vitium fortuna labier aequa, Nunc athletarum studiis , nunc arsit equorum ; Marmoris aut eboris fabros aut aeris amavit; Suspendit picta vultumque animumque tabella; Nunc tibicinibus , nunc est gavisa tragoedis ; Sub nutrice puella velut si luderet infans, Quod cupide petiit , mature plena reliquit."
+para13s4,   This is a principle that endures the strictest scrutiny of the historian; and with the priority is expressed at the same time the originality of the Greek culture.
+para13s5,"It is possible, it becomes probable even by historical data, that the Greeks at the beginning gained some elementary concepts of their sciences, some technical rules of the arts from the earlier civilized Orient; nevertheless, they appear immediately in their first state associations and constitutions, in customs, in language, in everything that characteristically distinguishes a people, from ancestral nature as original as ever was one; They also knew how to put such a stamp of their genius on what they had borrowed from abroad, and to enrich and fertilize it in such a way that everything soon became their own; and thus, in the whole course of their education, they passed through a ladder by which one can perceive, as on a cultural gauge, the course of purely human development in general."
+para13s6,"One is entitled to say even more, although not to the credit of the modern world."
+para13s7,"To the Greeks, whom already Horace, with a side glance at his Romans, called merely stingy for glory, Graiis - praeter laudem nullius avaris."
+para13s8," Und nach der vorhin angeführten Stelle, als Gegenbild: Romae dulce diu fuit et solemne , reclusa Mane domo vigilare , clienti promere iura; Cautos nominibus certis expendere nummos ; Maiores audire , minori dicere, per quae Crescere res passet, minui damnosa libido."
+para13s9, Romani pueri longis rationibus assem Discunt in partis centum diducere etc.
+para13s10,"    The moderns owe it above all to the fact that with them, who always sought the beautiful after the useful, not all knowledge was again caste-like, that the better culture was not completely rejected in the service of civilization, that even various studies, which must remain unrewarded as a kind of luxury, are at least not forbidden to anyone who renounces the help of the state."
+para13s11,"Thriving as well as they can in this limitation, such studies then expect their reward from themselves alone, and, if they need it, find comfort enough in the reputation in which they once stood with the noblest men, to whom the deliberate exercise of their powers and the pure satisfaction of their curiosity were everything."
+para13s12,"How else could the love of deeper research have arisen, even in the more rigorous sciences, if the Greeks had worked only for what was immediately useful?"
+para13s13,"The Romans were not a people of original talents, except in the art of conquering and ruling; they proceeded immediately in their earliest policy, later in the most varied arts, from the patterns of their neighbors, mostly Greek tribes; they imitated later, when they took a literature like a foreign commodity, the Greeks with zeal: but they did this in some ages with much luck and with such a peculiarly great sense that they became, contrary to the opinion of the latest Hellenic friends, something more than traditors of Greek literature; they also enriched the received parts of the learned knowledge with many things that have a closer relationship to practical life: as they then, for example, have to do with the Greek culture."
+para13s14,B.
+para13s15,"In the field of scientific theory of law, the Greeks achieved almost the same as the Greeks in philosophy."
+para13s16," A comparison could be made between the two peoples, which could put the merit of the Roman in a very favorable light."
+para13s17,"In particular, the character and influence of the sects introduced into jurisprudence from August's reign by Labeo and Capito and their students, the only science where one hears the Romans speak of their own sects or families, should be drawn more precisely than has been done so far."
+para13s18,"The matter would be for men like Hugo and Savigny , or if anyone else visits the learned sources of law."
+para13s19,"Meanwhile, compare the writings cited by Bach in Hist."
+para13s20,Iurisprud.
+para13s21,Rome.
+para13s22,ed.
+para13s23,5.
+para13s24,"p, 383."
+para14s0,"Let us now assume a case which, had it occurred, would certainly have opened a different road for modern scholarship, given it a different color."
+para14s1,"If from both mentioned peoples very little would have been preserved, for example some Homeric songs, some funeral plays of Aeschylus and Sophocles , a few writings of Plato or Aristotle, a few fragments of Horatius, Cicero, Tacitus, together with some larger and smaller works of the drawing arts or significant ruins of beautiful architecture ; If the remains of writing in their extinct languages were only as comprehensible as the art monuments would be, there would, we think, inevitably arise in everyone who is driven by the desire to explore beyond the needs of the present, a lot of questions about everything that might be discovered somewhere from peoples of such excellence and excellence."
+para14s2,"Without the slightest connection of our litterature and knowledge (if we acquired them without the process of the ancients) with the litterature of those peoples, we would certainly not have to consider them worth less attention than any other people completely foreign to us, of whose conditions discovering travelers report."
+para14s3,"Especially, one should think, we should be attracted by everything that could be assumed or known about the national culture, the political arrangements, the inventions and customs of those ancients."
+para14s4,Something similar was done by the moderns for a long time in regard to Egypt and several countries of the Orient.
+para14s5,What would be more unworthy than to find foreign countries and people interesting only to the extent that an actual interest of political or commercial traffic prevails?
+para14s6,"Man seeks man first; he strives to recognize him , without all secondary intentions in his own nature , in all his surroundings."
+para14s7,"He wishes to explore even the most remote regions and to study the abilities, the character, the way of thinking and living of their inhabitants."
+para14s8,"Such demands on our attention are not made by the cultivated peoples alone, even the crudest ones, which for the most part are all included in one description."
+para14s9,"But whether this is applicable only to the nations living at the same time as us, or also to those that have long since expired; whether distance of time excuses a smaller share of participation than distance of place, this might be a question that can at most confuse the prejudice for a moment, but is easy to decide for the insight that is urgent in the matter."
+para15s0,"But, fortunately, it does not require hypothetical consideration."
+para15s1,"Of those two most famous nations of the ancient world, such a considerable stock of works has been preserved until our days, that for more than two thousand years, almost no era is without significant traces of their existence, a stock which, complete and fragmentary writings together, may be estimated at one thousand six hundred, in larger and smaller works of drawing and fine arts much more numerous, rather countless in the true sense of the word."
+para15s2, This sum may seem exaggerated to those who value antiquity according to the number of writings they got to know in their first lessons.
+para15s3,"It is based on a fairly accurate count, in which, however, all ecclesiastical writers were excluded; although a Clement of Alex, a Jerome, Arnobius and the like, provide great services to ancient studies and do not deserve neglect; what also scholars, such as Valckenaer and others, have to say."
+para15s4,a.
+para15s5,before him.
+para15s6,"Incidentally, the numerous works of polygraphs, such as Aristotle, Lucianas, Galenus, have been counted individually, as well as the speeches of Lysias, Demosthenes, Cicero and others."
+para15s7,s.
+para15s8,"w.; but it is different with letters and the many small prose and poetic works, where a whole collection counts as one number."
+para15s9,It should be remembered that our stock of Latin writings amounts to little more than a quarter of the total number.
+para15s10,"On the other hand, we have from Greeks, alone up to the first actual writer of Rome, Livius Andronikus, about four hundred and fifty writings and smaller or larger fragmentists."
+para16s0,"Among these remnants, although they appear everywhere only like debris of an immense shipwreck, which sometimes complicates the idea of the once united whole, there are nevertheless so many main writings and masterpieces left, which have given the ancient culture and later ours the most definite directions."
+para16s1,"Especially fortunate coincidences in the literary subjects favored us; although not so much by chance as by intentional event in antiquity itself such writings were preserved most faithfully, which most approached the ideal of perfection, and such, unlike happens with us, where always the latest displaces the new, were handed over as models of emulation to the following ages, and by repeated copies were always kept fresh."
+para16s2," What is said here of a proper event refers to the censures, registers, plates (πίνακες) of the grammarians at Alexandria and Pergamum, especially to that selection of the best writers which Aristophanes of Byzantium and Aristarchus made to pick out from the excessive number of books the most worth reading and the most classical in matter and form."
+para16s3,"From the judgments of these art judges depended later on the whole learned and unlearned antiquity; the writers chosen by them were read most eagerly, thus also copied most diligently, since the others gradually fell out of hands, or were sought only by a few lovers of the rare and the heluones librorum."
+para16s4,"For general education, however, they read and copied about sixty selected authors, Homerus, Hesiodus, Pindarus, Sophocles, Euripides, Aristophanes, Herodotus, Thucydides, Plato, Xenophon, Lysias, Demosthenes and others."
+para16s5,s.
+para16s6,w.
+para16s7,"Would that so many others of these classes were not lost in the Middle Ages, such as Archilochus, Mimnermus, Alcaeus, Sappho, Stesichorus, Anacreon, Epicharmus, Menander, Philemon, Theopompus, Ephorus and others."
+para16s8,s.
+para16s9,w.
+para16s10,The fact that most of them remained intact until the fall of the Western Roman Empire is attested by many citations from their works; some of their writings seem to date back to the twelfth century.
+para16s11,to have received
+para16s12,"For information on the censorships themselves, see."
+para16s13,m.
+para16s14,Ruhnken.
+para16s15,hist.
+para16s16,crit.
+para16s17,oratt.
+para16s18,Graec.
+para16s19,in front of whose Rutilius Lupus p.
+para16s20,XCIV.
+para16s21,seqq.
+para16s22,Wyttenbachii Vit.
+para16s23,Ruhnk.
+para16s24,p.
+para16s25,"144, the annot."
+para16s26,to this p.
+para16s27,"286, meine Prolegg."
+para16s28,ad Hom.
+para16s29,p.
+para16s30,CXC.
+para16s31,"Incidentally, I do not agree with Heeren's opinion (in the above cited history p."
+para16s32,32) that those selections of writers would have been to the detriment of literature.
+para16s33,"If one has nothing to criticize about the judgments themselves, one would be justified in asking about the reason for the opinion."
+para16s34,"In the case of equally great diligence in copying, it could hardly be otherwise than that one would have copied and brought to posterity works that were more according to the corrupted taste of later ages, not exactly an Aeschylus, Sophocles, Euripides, Herodotus, Thucydides, Plato, Aristotle, Theophrastus, etc., but the works that were most frequently copied and brought to posterity."
+para16s35,w.
+para16s36,"We even think that someone might want something similar for the literature of the moderns, in order not to leave the distribution of the wreaths to chance, to the self-will of reviewers, to the mixed reading circles."
+para16s37," It is true that we have suffered immeasurable losses in scientific explanations, in various remarks, in historical data, which the ancients laid down in so many books; in that it can be shown what strange peoples' stories have disappeared with the demise of twenty and more writings, indeed even the consideration of how many observations and ideas from a single one of the preserved books, e.g., the ""The Book of the Ancients"", has been lost."
+para16s38,B.
+para16s39,"The importance of the many losses of similar books, several thousand of which were written in the period between Pericles and Jul."
+para16s40,"Caesar on philosophy , history of nations and knowledge of nature filled the libraries of the ancients."
+para16s41,"In spite of all this, however, much that is exemplary from an artistic point of view and important from a scientific one has been preserved up to our time; and in several classical works the foreboding of their authors, who prophesied them an everlasting duration against the storms of the future, has proved itself so much that here the hand of the ruling fate often reveals itself."
+para16s42,"Through such remnants of number and content, we latecomers are put in the position, with, if not complete, yet satisfactory insight, in some respects even deeper than the ancients themselves, to enter into everything that so memorably distinguished them, without conspicuous interruptions, and to follow their doings and sufferings in the most important relations."
+para16s43,"And herewith we pronounced the highest tendency of science, which will most appropriately bear the name of the science of antiquity."
+para16s44,"Every other name , common as it is among the other peoples of Europe, has less reason; one is too broad, another too limited; none exhaustive of the whole."
+para17s0,"If thereafter a more detailed description of the whole of our science is required, it will go to the epitome of the knowledge and information that acquaint us with the actions and destinies, with the political, learned and domestic state of the Greeks and Romans, with their culture, their languages, arts and sciences, The aim is to make us acquainted with the actions, political, learned and domestic state of the Greeks and Romans, with their culture, languages, arts and sciences, customs, religions, national characters and ways of thinking, in such a way that we will be able to thoroughly understand the works that came down to us from them and to measure them with insight into their content and spirit, with visualization of ancient life and comparison of the later and the present."
+para17s1, 
+para18s0," The sources from which the researcher of antiquity takes his material, at the same time the objects in whose contemplation and enjoyment he practices his study, are remains of ancient times, ancient works, ancient monuments."
+para18s1,"They came to us from all the centuries that contain the emergence, blossoming, growth and fading of both nations, so first from over 1000 years."
+para18s2,B.C.
+para18s3,G.
+para18s4,"until the beginning of the historical Olympiads (776) and Rome's founding, around the middle of the eighth century b.c."
+para18s5,Chr.
+para18s6,G.
+para18s7,(754); then from that time until towards the end of the fifth sec.
+para18s8,after Chr.
+para18s9,G.
+para18s10,"(476), finally until the capture of Constantinople by the Turks (1453), in order not to exclude the Greeks of the Byzantine Empire, who were ailing to a slow death in the Middle Ages and yet still associated with Homer's and Plato's Muses, and to observe, as it were, the final drying up of both flows of people that had been brought together."
+para18s11,"These three great periods together amount to a space of about three and a half millennia; nevertheless, there is not easily a human age in them that would be empty of remnants for us in the various or at least in certain important classes."
+para18s12,"For example, we have"
+para18s13,B.
+para18s14,"coins through almost two millennia, from some countries quite continuously; and some centuries and individual shorter periods of time are so full of witnesses to the then state of things in the moral and political world that here and there a period stands clearer before our eyes than some of the latest confused moments of history."
+para18s15," Compare the period of Caesar's deeds and his dictatorship with the history of the French Revolution, or the history of the Peloponnesian War with that of this and that new war."
+para18s16,"Especially in the times, when great virtues and great crimes were shown to the people in public, it was much easier to find out something for sure about the course and the driving forces of the events."
+para18s17,In all ways it is a prejudice to think that the history of world affairs becomes more credible as it gets closer to our days.
+para18s18," The collected remains are of three kinds: partly written works, which also include the bard songs that were only sung before the spread of the art of writing and were only recorded later; partly artistic, i.e., bard songs."
+para18s19,h.
+para18s20,"Works of drawing and sculpture, both of the art associated with poetry and of common technique; partly remnants of a mixed kind, in which literature and common technique have approximately equal shares."
+para18s21,"Here belong most of the inscribed stones, which are much closer to writings than to art products."
+para19s0,"Again, these three classes of works demand and suffer a dual view and treatment."
+para19s1,"From one side they are to be regarded as monuments and testimonies of past conditions; in which respect they have, down to a fragment of a mediocre writer, down to the most artless anticaglia, a historical value, since even the most insignificant pieces of the kind captivate our attention more instructive and more leisurely than more recent works of equal merit."
+para19s2,"On the other hand, the works of antiquity are to be considered aesthetically beautiful, of which there is admittedly a smaller number, mainly from the most flourishing ages of both peoples; even though the mediocrity of those remnants, because of the great patterns after which they worked, always had a nobler stamp than modern mediocrity achieves."
+para19s3,"It goes without saying that the second genre of ancient works, the beautiful or classical ones, are at the same time to be regarded as monuments, even if often only of attitudes, of moods, sometimes of quite momentary states; in that many of the monuments that are actually to be called so, as a carelessly made compilation of stories, a common piece of equipment of old cellars and kitchens, a shapeless coin, a written brick mark, almost do not fall under aesthetic consideration at all."
+para19s4,"However, it would be detrimental to narrow the scope of study if, as is now done by most people when noting ancient works of art, one were to highlight with false disgust only the classical and beautiful, leaving everything else to so-called antiquity buffs."
+para19s5,Such thinking is selfish and noble rather than true and liberal.
+para19s6,"Often an inconspicuous fragment of bad technique, an insipid passage of a versifier, has long since shed desired light on a better work; so that only he deserves blame who elevates the individual above its value, with regard to literature or art or history."
+para20s0,"So much about the idea and the general of the science, about the ages and the types of the remains, as the matter in which it works."
+para20s1,"It lacks, above all, a justification, which must be given partly by historical data, partly by developments of philosophical principles, the results of which either turn into skills or proceed from them."
+para20s2,"Of course, the works written in writing have the first rank among all: they provide the main means to understand and judge the others correctly; they create for us, by means of languages, a familiarity with the ideas and expressions of antiquity; therefore, a most perfect understanding of the writers, together with the examination of the original or after-falsified, the genuine or inauthentic, the ancient or the late, all of which is mixed in the written works, belongs to the most necessary requirements."
+para20s3,How the practical occupation with this affects our education is not to be discussed here; only this much is to be noted that a deeper study of languages does not recognize the distinction between language and subject knowledge that is usually made.
+para20s4,"Here alone, however, we do not speak of the ancient languages both as one of the objects of science, but rather in so far as their knowledge is instrumental."
+para20s5,"In this way we obtain an organon for the entire science, in which first, after a philosophical explanation of the general principles of language from the laws of thought, the theory of the Greek and Latin language is treated according to the usage of the language, which changes from time to time."
+para20s6,"I say, according to the usage that changes from time to time."
+para20s7,"For by grammar is not understood here the limited system of rules of a language from a single period of its flowering; which may suffice with newer languages, where we mostly look only at their present usability, not at their earlier litterature: the name rather encompasses all periods of the life of a language, i.e., all the periods of its life."
+para20s8,h.
+para20s9,"the studies of their origin , their construction , their progressive formation, i.e. orthography and orthoepy, prosody, etymology, analogy and theory of forms, syntax and idioms."
+para20s10,"These investigations are on the one hand historical, on the other philosophical: the former, inasmuch as every rule of language proceeds from a fact, a usage of language critically demonstrable from uncorrupted passages of the ancients; the latter, because no rule in languages is fixed without being justified by the nature of the use of speech."
+para20s11,"Thus, grammar becomes, to a certain extent, the history of a language which, in the case of Greek, passes through a period of three and a half thousand years; a phenomenon which has never occurred in any other, and perhaps will never occur again."
+para20s12,"The grammar of the two languages, moreover, only becomes a secure basis for the art of interpretation and criticism through such a far-reaching treatment, since the use of language, which changes many times in the course of national culture, must be known and determined in order to decide on the true meaning of a writer and on what is to be considered genuine and inauthentic in him, according to secure reasons."
+para21s0,"The next hermeneutics, based on the grammar of the Greek and Latin languages, has been very perfect under the hands of several good interpreters, but it is by no means perfect as a theory."
+para21s1,"It still seeks for the art of finding the thoughts of a writer from his speech with necessary insight, various justifications in studies on the nature of word meanings, on the meaning of a sentence, on the context of a speech, on many other points of grammatical, rhetorical and historical interpretation."
+para21s2,"Fortunately for the practice, however, such analyses do not exactly awaken the genius of the artist of interpretation, nor do they increase the dexterity of the mind to enter into several languages and into the different ages of each, into the way of thinking of earlier centuries, which is so different from that of today, into the peculiarities of each genre of speech, into the personal individualities of an author, and thus to think in agreement with each author, and even to think evaluatively about him by comparing the phenomena of literature before and after him."
+para21s3,"For this is understanding in a higher sense, that by which the interpreter, native to all places, dwells with all his soul in this age and in that, and exhibits here an excellent writer to the admiration, there an imperfect one to the censure of the reader with proofs of his judgments."
+para21s4,"But little can be accomplished by all this, least of all a comprehension of the peculiarities of times and writers, if times and writers are not first sufficiently determined, which just occupy the interpreter; likewise, no text can be explained with necessary conviction of the harmony of our thoughts with those of the author, before the authenticity and accuracy of his presentation has been proven down to the individual expressions, or yet is provable."
+para21s5,"From both considerations arises the philological criticism, with which, for the evaluation of the treated matters, a manifold doctrinal criticism is often to be combined, and in the case of writings that lay claim to beauty of presentation, the rhetorical or, as we say among ourselves, aesthetic criticism."
+para21s6," Also these last two kinds of criticism the researcher of antiquity cannot do without danger, although the linguistic criticism remains for him the main business, and he must be content now and then, like the Alexandrian scholar, who first took the name of philologist, to be called only Beta in considerable parts of the remaining knowledge."
+para21s7," Eratosthenes from Cyrene, librarian of the great library at Alexandria around J."
+para21s8,v.
+para21s9,Chr.
+para21s10,"215 , as is known, first assumed that title."
+para21s11,He received the nickname because he did not claim first rank in any of the many subjects in which he worked.
+para21s12,S.
+para21s13,Suidas Lex.
+para21s14,T.
+para21s15,I.
+para21s16,p.
+para21s17,850.
+para21s18,with Küsters annot.
+para21s19,"  The real profession of the scholar of antiquity can be, according to the nature of things, no other than to represent the ancient in both peoples everywhere in its original form, in its true coherence."
+para21s20,"Philological criticism, however, primarily investigates the age, authenticity, and authenticity of written works, and evaluates their original correctness or their sometimes accidental, sometimes deliberate corruption, not infrequently up to the demonstrative restoration of what an author had really written, or at least up to the satisfactory indication of what is not of the alleged author."
+para21s21,"Since this art is either based on handwritten documents or clarifies something for internal reasons of evidence, of which there are no witnesses, sometimes can not even exist, so one distinguishes a lower criticism, better a certifying , and a higher, which one should rather call the divinatory."
+para21s22,Rarely do the two genres work separately for their common purpose; but there are not a few cases where critical divination alone rises to the highest degrees of probability; whereas criticism composed of both genres often guides the honest seeker to a truth no less convincing than that of which the exact sciences justly boast.
+para21s23,"For in what way would it be very different if for the connoisseur it is shown by tenable reasons of proof how something not certainly authenticated was or was not a thousand to two thousand years ago , and if by strict demonstrations of another kind the unknown and invisible in nature and in the world building is revealed ?"
+para21s24,"However, the kind of proofs is different, so also the art of proof: where the latter is greater, where it demands penetrating acumen and more prudent judgment, whether in the mathematical calculation or in the calculation and weighing of infinitely unequal historical moments, others may decide : But the certainty achieved is often no less here than there, although there is no commensurability in the degrees of such certainty; so that for those who reproach historical-critical demonstrations with the lack of mathematical rigor and evidence, in the end history must bear its guilt, that it is history and not mathematics."
+para21s25,"Now that what our art has done here and there already often and in such a way that later found historical testimonies confirmed the judgment of the critic and his decision, not opinion, for every capable of judgment and sometimes even for incompetents, that will not be based on hunches, but on principles whose system to establish with philosophical accuracy is not indifferent to science."
+para21s26, It is true that there are scholars who see in everything they call word-criticism little more than a sensible jugglery of small possibilities: but it would be easy to clear up the causes of this error.
+para21s27,"With some they are quite individual, sometimes even physical, and therefore their mention is repugnant; others do not know to distinguish truth or certainty from probability and from possibility, still less the degrees of both the latter; some, finally, confuse the incapacity arising from defective materials with the incapacity of art."
+para21s28,"But it is precisely there that criticism often demonstrates its best strength, where it shows on the basis of reasons to what level of conviction both sides can reach, and why an expression, a passage is incurable."
+para21s29,"Methinks the physicians, with whom the critics sometimes compare themselves, know quite similar triumphs in their art."
+para22s0," In addition to the disciplines mentioned so far, which pave the way for the friend of antiquity, their place awaits the art of style and composition, both in prose and in verse, along with the principles of ancient metrics."
+para22s1,"For only the skill of writing in the manner of the ancients, only our own productive talent, enables us to fully understand foreign productions of the same kind and to comprehend in them more than certain subordinate virtues; and in this respect the skill of writing in the ancient languages, at least in Latin, becomes here more than subsidiary."
+para22s2,"There is no question now of whether anyone else thinks it worth the trouble to present the fruits of learned research in a language in which alone they can be passed on in their original form and color to every future century, or whether one also wants to trust in writings of learned content to the only help of necessity, possible translations, which always remain below the originals, often disfigure excellent originals into caricatures for foreign countries: as it seems, the newest Europe wants to allow only the books explaining the once eternally consecrated writers to live on as long as each is able: although the hope of always seeing several languages developed next to us for every use, sooner or later, so that the overabundance of languages then to be learned does not silt the stream of learning through too many channels, even makes us expect an inevitable necessity to entrust what actually does not belong to the litterary education of a people, but of the whole thinking world, and is destined to become imperishable heritage, to only one old and perhaps, in certain matters, to one present language; if our countrymen, out of love for their language or out of love for all, will not disturb such an agreement in order to be more learned in every sense than their neighbors."
+para22s3,"But I did not want to recommend the present use of a dead language as a living one, but consider here the art of writing in the ancient languages as a means, not for learning the languages, but by which hermeneutic and critical fluency and depth are gained."
+para22s4,"In this art of composition, in particular, philosophical theory has since then taken the most uncertain steps, and would probably like to continue to stumble for a while, however many rich patterns are available in the ancients and the moderns, from which it could draw."
+para22s5,"Nevertheless, it may remain imperfect; the disadvantage will not be great for the practitioner, who will certainly benefit from a theory different from that given by our latest sages, in whose profound analyses of the first reasons of an art sometimes the best artist can forget that it is precisely his own that is being spoken of."
+para22s6, It seems worthwhile to point out in general the difference between the theories that facilitate production and the abstruse developments of the inner nature of the arts and their first causes.
+para22s7,Who would deny the latter their merit and their scientific value?
+para22s8,"But only the former were known to antiquity, whose τέχναι and artes formed real orators and poets; since today we will soon have theories according to which a speech or a poem can be made as little as a thunderstorm according to a brontology."
+para23s0,"Thus, through philosophical grammar and the particularity of both languages, through hermeneutics, criticism, and the skill of style, the studies are completed that prepare the entrance into the circle of objects that provide the historical and real of science and the closer view of the ancient world."
+para23s1,"In this way, too, the researcher will need all kinds of other auxiliary knowledge, especially from some of today's newly created disciplines and real sciences, sometimes also the knowledge of foreign languages, such as Oriental, Modern Greek, and some modern ones; otherwise he will be forced to leave many an investigation halfway, give many an erroneous finding for a useful discovery, and present useless data to other sciences as the results of thorough examinations."
+para23s2,"However, the own field of the science of antiquity is already too wide, impassable in all directions even for the most diligent and courageous: how should one be allowed to include in its boundaries that which only serves to illuminate individual matters, certain passages of a writer, certain obscurities of a work of art?"
+para23s3,"Accordingly, the quantity of pressing things already forces the friend of antiquity to draw modest boundaries and to devote his efforts to certain similar objects, because he would have to want to seek pleasing superficiality everywhere."
+para23s4,"Therefore, even some scholars have been so pleased only in the workshops of grammar, interpretation and criticism that they hardly ever appeared as commentators of the historical parts, while others drew under the concept of grammarian and critic everything that belongs to science in general."
+para23s5," Thus, mainly the Dutch scholars, e.g.."
+para23s6,B.Ruhnkenius in Elog.
+para23s7,"Hemsterhusii , where he tries to represent the researcher of antiquity in general under the ideal of the critic."
+para23s8,"In a similar way, the ancients used the name of the grammarian, as we know from Sextus and other writers."
+para23s9,"Of course, even the true artist of this kind cannot run his business happily without often fetching materials from all other districts and all polyhistory, as from him alone, in turn, the purification and processing of those materials is expected."
+para24s0,"For only the secure handling of the described organs is the condition of thorough, the mark of self-acquired insights into antiquity; only through this the temple opens, from which only isolated sacred sagas come to those standing outside."
+para24s1,"There is no doubt that there will always be people of general curiosity who, with the help of translations and excerpts, acquire a certain familiarity with antiquity; there have always been such lovers of this knowledge."
+para24s2,"They can be compared with those who, without knowing the depths of the study of history and without exploring it themselves, collect historical knowledge to use it for the formation of their character and for other moral or political purposes."
+para24s3,"If they found themselves endowed by nature with dispositions akin to the spirit of the ancients and susceptible to an easy transposition into foreign ways of thinking and situations of life, they acquired, however, through such half-acquaintances with the best writers, more of the wealth of those powerful natures and great patterns in thought and action than most of those who offered themselves to them as interpreters for life."
+para24s4,"A shining example of this is one of our kings, of whom Prussians and all Germans are proud, and of whom every memory is inspiring beside the sublime characters of old."
+para24s5,"But very different demands than men of this kind make on themselves are made on the actual scholar, who himself should prepare the material for the manifold use of others, and with higher demands science rises as a whole to fulfill each of the purposes lying in it."
+para24s6," This must also be true of moral tendencies, although they do not belong to the inner doctrine."
+para24s7,"Rarely will the true connoisseur of antiquity, siquidem homo est, neglect this beautiful fruit of his studies."
+para24s8,"To some, it was itself one of the first points of view."
+para24s9,"Thus wrote the greatest Latin philologist, J."
+para24s10,"Fr. Gronov , to the statesman and great emendator of the Latin poets, Nic."
+para24s11,"Heinsius: Ego a prima aetate in lectione veterum id potissinmm habui, ut mei mores emendarentur , non ut apices et puncta librorum."
+para24s12,"Si interim frequenter legendo profecimus eo, ut genium capere scriptoris, ipsumque sua mente et stilo donare possem, in lucro deputavi."
+para24s13,(Burm.
+para24s14,Syll.
+para24s15,epistt.
+para24s16,T.
+para24s17,III.
+para24s18,p.
+para24s19,3).
+para24s20,"If there were not now and then similar statements by famous linguists, who are known to the crowd as dry grammarians and critics, then perhaps every unlearned bungler, who moralizes or aesthetizes at the wrong time, would eternally renew the accusation of inhumanity against them, because in their writings they only did what was their business."
+para24s21,"Strange enough! Why does one not proceed in the same way against the astronomer, against the anatomist, the botanist, every natural scientist, who leave so many beautiful opportunities unused for phrases and effusions about God's omnipotence and goodness, while they indulge in the driest and most inhuman musings and speculations?"
+para24s22,"To this end, it demands that one see everywhere with one's own eyes, and disdains to accept anything without careful examination, an examination that one can certainly not make without knowledge of its sources and their proper use."
+para25s0,We now come to the special doctrines that lead to the contemplation of antiquity.
+para25s1,"They take their material from all three types of remains mentioned above, not only from the literary ones."
+para25s2,"Not to speak of mythology and the so-called antiquities, how many contributions of news and theorems do not provide the monuments of art and those of mixed kind, even to the mere knowledge of ancient languages! But writings remain everywhere the main sources, which are to be visited first, and the bases of all philological and archaeological investigations; for which reason, then, the preliminary studies, which teach the right use of the writings, are followed in good succession by the series of doctrines, in which the profit drawn from the remaining works, as far as it can be separated, must be collected and preserved."
+para25s3,We want to list them here in the order in which they can be arranged most naturally to the noblest purposes to which they aspire.
+para26s0,"Nothing is more necessary than to become acquainted first with the places where the better-known peoples of ancient times lived and acted, in order to get to know their dwellings and their different conditions in different ages, from which much of the human nature peculiar to antiquity becomes explicable."
+para26s1,"However, ancient geography is not, like chronology, merely auxiliary to history; it is itself a part of history; and one of the most difficult for scholarly treatment, partly because of the nature of the sources from which it is to be drawn, partly because of the art of using the sources."
+para26s2,"From this side, the geography of today's world comes into minor consideration, as long as it brings together only temporary political news with ordinary judgment."
+para26s3," The merit of the newer geography and the statistics related to it is especially obvious from the fact that both take on a new form almost monthly, where the older edits are then put back like calendars."
+para26s4,"Yes, a few hours can make our political earth-movers bad disruptions in their hands works, an earthquake, for example."
+para26s5,"E., a battle, a peace treaty."
+para26s6,"At least, the old geography is secured against this, because its material, which in itself is also changeable, has long since become unchangeable."
+para26s7,From the recent history in comparison with the old s.
+para26s8,Ernesti Opuscc.
+para26s9,orat.
+para26s10,p.
+para26s11,294 ff.
+para26s12,"   Add to this the fact that in ancient geography so many questions concerning both the nature of the countries and the statistical condition of the same want to be answered periodically through all time periods, in that even the earlier centuries are not to be excluded, where the news and information are almost universally mixed with miraculous tales."
+para26s13,"Therefore, here must be distinguished as two main types I."
+para26s14,"The mythical geography and üranography, for the knowledge of the oldest Greek ideas of the universe and of the earth and its inhabitants, II."
+para26s15,"the historical, along with chorography and topography."
+para26s16,"This part begins approximately with the time of the Olympiads, since which the geographic mists disappear more visibly, and a better knowledge passes in increasing clarity through the following periods of the people's history."
+para26s17,We have recently received excellent and with penetrating criticism treated contributions of both kinds from Voss and other Germans and a French scholar; but still much awaits here further and by richer data founded investigations.
+para26s18, 
+para27s0," The moderns have already been longer and more diligently occupied with the second discipline, which is actually historical and ethnological: nevertheless, it still lacks many treatments to lay a solid foundation for scientific treatment."
+para27s1,"The old history can claim the name of science only when the necessary views of its scattered material will be more satisfactorily completed by examination of the individual facts and the chains of events will have been so sifted through that nowhere a main link remained unexamined; Only then can history, sufficiently prepared for the intellect, receive its completely scientific form for reason; whereby it must be just that in the ideal what nature is in the real, and the world events, as far as the freedom allowed to man by fate suffers, only another kind of products than the products of nature."
+para27s2,    Man cf.
+para27s3,the beautiful execution of Schelling in the Vorless.
+para27s4,   on the method of academic study S.
+para27s5,214 ff.
+para27s6,Would this thinker have talked there also about our whole science according to his ideas.
+para27s7,"However, we would like to remain far away from this higher view, if scientific construction is to take place earlier than the materials have been artfully procured through knowledge of the language and critical use of the sources, and as long as a lot of laborious preliminary work is set aside as unimportant and petty."
+para27s8,"Such works are the real contribution of the scholar of antiquity, who, however, if he himself can raise his eyes to the purely scientific, will not cede this use of the material to the historical philosophers who may soon come forward."
+para27s9,"The political history and the history of peoples, however, just as the geography and the history of art, comprehends not only the Greeks and Romans, but all known peoples of that time, the very least of which we would know without the remains of Greece."
+para27s10,"The peoples themselves will have to be presented according to their origin, existence and downfall, each for itself, not in the manner of some recent universal histories worked into the dramatic, but in aggregates of the peoples' histories lined up next to and after each other, whose entire epitome must then combine memory and understanding into a whole according to length and breadth."
+para27s11,"Incidentally, the chronology of ancient times and historical criticism provide the historical study with necessary auxiliary knowledge."
+para27s12,"The doctrine that is generally called antiquities, by an expression already in use among the Romans, Plin."
+para27s13,H.
+para27s14,N.
+para27s15,"XIII, 13."
+para27s16,Gell.
+para27s17,"I, 25."
+para27s18,"III, 2."
+para27s19,"XI, 1."
+para27s20,"XIII, 12."
+para27s21,Cic.
+para27s22,Acadd.
+para27s23,"I, 3."
+para27s24,Augustin.
+para27s25,by C.
+para27s26,D.
+para27s27,"VI, 3."
+para27s28,"These passages are cited against the Latinists, who are in agreement with Chr."
+para27s29,Saxius preferred to say antiquitas rather than antiquitates.
+para27s30,"But the singular has visibly another meaning, and certainly no age could use it of a part of historiography or as a title of a historical work, for what the Greeks called ἀρχαιολογία , as writings of Phanodemus , Dionysius of Halik."
+para27s31,u.
+para27s32,a.
+para27s33,betitelten.
+para27s34,"Did they not remember the famous Varronian work, Antiquitates rerum humunarum et äivinarum , the one from which perhaps in more recent times the name was first borrowed?"
+para27s35,"   Archaeology, too, which in German has been called Alterthumskunde for some time, still has indefinite and, according to the nature of things, indeterminable limits."
+para27s36,"Heyne and other scholars have recently remarked that it is most appropriate to include in it such subjects as are contained in our statistics for today's peoples, and that at least an excellent attention should be paid to political science."
+para27s37,"One could also suggest to bring into this spacious framework a lot of things that do not find a proper place elsewhere, and yet are of such a nature that the knowledge of the characteristic in antiquity gains."
+para27s38,"If, therefore, in the antiquities of our two nations (in the case of the Asiatics, the little that is known is better placed in their history), if in the case of the Greeks and Romans, the news and explanations belong here most of all, by means of which one gets to know the shorter or longer lasting state and condition in the political, religious, military and in the relationships connected with it, together with the customs and habits; It is to be hoped that many similar things will be used to illustrate their lives, and that especially everything that can be found in the mechanical arts and all kinds of trades among the ancients will be carefully collected."
+para27s39,B.
+para27s40,agriculture and much of the old technology could fill extensive sections.
+para27s41,"By the way, states and constitutions are the leading concept here, whereas history tells only incidents and events in their succession; in that they represent what is becoming, antiquities, on the other hand, what has become."
+para27s42,"Nevertheless, also the latter, as several have rightly demanded, want to be treated, if possible, according to periods of history, because many ideas appear at most half-true, as soon as they are not linked to certain points in time."
+para27s43,"In passing, it should be mentioned that the study of ancient Greece receives its most beautiful interest from the paintings of the youthful progress, which we perceive in general civilization, in the formation of states through legislation and an orderly judiciary, and in various spiritual cultures among the Greek peoples; which is precisely why the journey of the disciple Anacharsis, although it contains little new research and is all too modern on the whole, has such an attractive appeal."
+para27s44,The
+para28s0,"The first part is mythology, a part of ancient knowledge, which still lacks a great deal of development, since even the material for it has been collected too little until now."
+para28s1,"Since then, this material has been searched only on the easy ways, but it is hidden in so many remote places that its collection is one of the most laborious works."
+para28s2,And that would hardly be halfway aligned.
+para28s3,"First, a philosophical comparison of the new and the old world must be added to the examination of the individual, namely of the various uncultivated peoples discovered in recent times and their legends and traditions, as well as the Hebrew and other Oriental ones, without distorting the stamp of Greek fantasy, so that through all this it will be possible for us, who lack a thousand rings of the earliest system of thought, to attain to some extent correct concepts of the child-wisdom and the first plays on ideas of the Greeks."
+para28s4,"The Greek mythology is a collection of such ideas, legends, poems, which the nation has produced in the first times of its existence, about nature and world and gods or higher beings, about everything else, on which the not yet to the cultivated culture of the mind advanced man could turn the outer and inner sense, especially about the history of the oldest settlements and the great deeds of leaders and heroes."
+para28s5,A mythology of this content worthy of our attention we get again from the Greeks alone.
+para28s6,"It is true that the Romans, like the Etruscans before them, had a number of old Italian fables, such as we know from Ovidius and some Christian church teachers: But since, with the spread of Greek literature in Rome, the Greek fables, through the reading of the poets and through the immediately Greek theater, soon merged with the Italic ones, and in part melted together with them, and the art of the image, cultivated by Greeks alone, introduced the native legends and traditions of beautiful and profound meaning into the realm of poetic truth embodied; so it was natural that the less poetic legends of Italy receded into the obscurity in which they had first arisen."
+para28s7,"In the Greek mythology, on the other hand, which we have survived more completely, we see the first elements of human history and the germs of all scientific enlightenment, according to which, from Heyne Man s."
+para28s8,especially Dessen's preface to M.
+para28s9,G.
+para28s10,"Hermann's Handbook of Mythology, Berlin 1787."
+para28s11,8.
+para28s12,"  The first part of the book is the first part of the book, the second part is the first part of the book, the third part is the first part of the book, the third part is the first part of the book, the third part is the first part of the book, the third part is the first part of the book, the third part is the first part of the book, the third part is the first part of the book."
+para28s13,"Each main class of fables, or, as a Dutch scholar G."
+para28s14,J.
+para28s15,"van Swinden, who published a learned sample of a new edition of Apollodorus in the Miscell."
+para28s16,Observed.
+para28s17,crit.
+para28s18,Nov.
+para28s19,T.
+para28s20,III.
+para28s21, p.
+para28s22,37.
+para28s23,has left behind.
+para28s24,Vgl.
+para28s25,Heyne at Apollod.
+para28s26,S.
+para28s27,914.
+para28s28,and here and there in other writings.
+para28s29,"  The first one, which I began to say myths, gives its contribution to this system of ancient ideas, namely the nature myths, as attempts of a stammering philosophy, further the doctrine of gods and demons, which, however, must not be treated as a religious theory, then the traditions of the people's leaders and heroes through the so-called heroic times, then the moral myths and oldest allegorical teachings for the needs of human life, finally the geographical, astronomical and other fictions of the purely poetic age."
+para28s30,"From several of these arose subsequently a cycle, which, founded by bards and poets, more or less sanctified by the faith of the people, later taken up and developed by artists, constituted a main part of the beautiful art of the image-maker; and as an artistic mythology is entitled to a separate treatment."
+para29s0,"The mythology can be immediately followed by the history of the learned enlightenment in both nations, namely after a double division."
+para29s1,"First of all, the external history of literature, which deals with the written works of the Greeks and Romans, their authors, their lives and the circumstances in which they wrote, in short, with everything that contributes to scholarly d.."
+para29s2,i.
+para29s3,"The book is prepared historically by a thorough reading and use of the works, and provides instructive information."
+para29s4,This is the field on which G.
+para29s5,J.
+para29s6,"Vossius, J."
+para29s7, and J.
+para29s8,A.
+para29s9,Fabricius have worked with fame.
+para29s10,"Here we consider the works first as Continentia, as monuments of their ages and authors; which is why the biography of the writers occupies us most here, with constant reference to the history of the state and the progress of higher culture."
+para29s11,"The second section must be directed to the content of the works, and it results in the inner history of the ancient tradition, or the history of the origin, growth, flourishing state and decay of literature, partly in the spoken arts, partly in all the knowledge and sciences that were cultivated by the Greeks and Romans."
+para29s12,"From this side, there are as many branches as there were arts and sciences in antiquity, such as history of poetry, of historical recitation, of artificial eloquence, of philosophy, of mathematics, of physics, of nature description, of medicine, of philology, and so on."
+para29s13,s.
+para29s14,w.
+para30s0,"But in order to include the antiquity, as far as our information reaches, in its great extent in the view, in order to construct, as it were, the building shattered by the loss of so many works according to its ground plan, must be seen in the twofold history of literature on every more important appearance in view of the writers lost for us; for which collections of their fragments still existing here and there together with news of their merits and influences on their age are conducive."
+para30s1,"How complex this business is, and how many skills have to be combined for such a construction, is overlooked at first consideration of the matter."
+para30s2,"Only a few and thirty tragedies have survived from the Athenian stage, none from Sicily and other regions; since the Greeks, besides about five hundred tragedies performed with acclaim, had at least two hundred famous and recognized as classical: to prove the accuracy of such data, like several others, would lead beyond our limits."
+para30s3,"That I calculated the numbers too small rather than too large , can once show a most complete enumeration of the losses suffered in each genus."
+para30s4,One has nothing satisfactory about this yet.
+para30s5,In the Fabric Library are z.
+para30s6,B.
+para30s7,"In the case of tragic and comic poets, many names are included in the registers of lost poets, only to report that they do not belong there; there is also much inaccuracy in the titles of individual lost plays, even in recent editions of the poets."
+para30s8,"Occasionally, by the way, it must be noted here the fertility and energy of the spirit of the most famous Greek playwrights, which can excite the astonishment of any age."
+para30s9,"Rarely does one leave behind less than sixty pieces; some have left behind a hundred and more, and plays of such artful poetic technique that ten such were enough in late times for a poet to achieve immortality."
+para30s10,"And those poets lived partly not without public business; few at all had only one life business, like most of the newer ones."
+para30s11,"  A similar ratio can be found in the remaining comedies against the number of those formerly performed and approved, or even praised: in history and geography, so many rich sources have dried up for us, that we have, for example, to find the most interesting comedies."
+para30s12,B.
+para30s13,"of the seventy historians who described the first Persian war, we do not possess a single one; so we have lost from orators and declamators, as far as can be calculated, about eighty, if not more."
+para30s14,"In order to complete the literary picture of such writers, not only must circumstances of life and other reports be collected with judgment, but also their fragments, which have sometimes been preserved in numerous and substantial form by subsequent writers, must be read together and, if at all possible, combined into small wholes."
+para30s15,"After this has happened, art and science of every kind make new and far more difficult demands on the processing of the material."
+para30s16,"He who intends to work on the inner history of an art or science must not only be an ancient litterateur and critic; he must also be familiar with the art or science itself, whose course he wants to trace, whose gains and results he wants to appreciate."
+para30s17,It is extremely rare to find both types of business together in some degree of perfection.
+para30s18,"Hence the lamentable experience that we still read few thorough historical investigations of certain sciences, where the profundity and ingenuity of the Greek discovered so much with little help."
+para30s19,B.
+para30s20,"The first part of the book is a description of mathematics, especially of the astronomy of the Greeks, although the moderns are not lacking in scholarly compilations."
+para30s21,"One thinks here of works such as the praised one by Montucla on the history of mathematical sciences, likewise of the Essai sur Histoire generale des Mathematiques par Chr."
+para30s22,"Bossut, as much as this book has been through the Ital."
+para30s23,Translation by Greg.
+para30s24,"Fontana (Mailand, 1802, 8.) won haben mag."
+para30s25,"What remains to be desired here everywhere would then become apparent if scholars, such as Ideler or Beimer, would devote their learned diligence to the same matters."
+para30s26,"Monographs on particular subjects , such as on individual writings of Archimedes , Apollonius of Perga , etc ."
+para30s27,should initially employ several.
+para31s0,"By the disciplines thus brought to the overview, the mass of things would seem to be exhausted, the knowledge of which can make antiquity in its most important relations and peculiarities again into a lively whole."
+para31s1,"Only two or three arts, which stand in the middle between the spoken and visual arts, deserve a passing mention."
+para31s2,"These are the mimetic arts, whose representations are all temporary and leave no actual monuments , music and the art of declamation , or older rhapsodics (ἡ ῥαψωδική) , and the orchestral, dramatic, high dance art developed from the latter ."
+para31s3,"Of these arts, far too little is known to us from our ancients to be able to subject them to a complete consideration; although we have to be careful not to underestimate the value of such arts, e.g., the use of the word ""art""."
+para31s4,B.
+para31s5,The reason why we should disparage the music is that its great difference from ours is obvious.
+para31s6,"Even if it is not possible to state sufficiently what they were in each of their functions among the ancients, and what levels they reached, a conclusion for their value is nevertheless valid from the excellence of the other arts, in the wake of which they were appreciated by judges of the most delicate sense of beauty."
+para31s7,"  Everyone remembers here the exact connection of these arts with the theatrical poetry, whose patterns belong to the most brilliant products of the Greek genius, or also the appreciation which Aristotle gave to those arts."
+para31s8,"We would know a little more about this if the poetry of the philosopher had not come to us as a fragment of a larger writing, indeed as a fragment of a first draft."
+para31s9, 
+para32s0," Now the second genre of the remnants of antiquity, the works of drawing, sculpture and common technique, comes to be considered in and of themselves, not from the side of the yield they create for the real disciplines."
+para32s1,"However, the great number and variety of such works and various other difficulties inherent in their genres present us with almost insurmountable obstacles."
+para32s2,"First of all, these remains are themselves today scattered in several regions of the earth, where luck and chance have scattered them outside the motherland to their disadvantage: most of them can be studied artfully only in the places where they are once set up, in order to judge others with insight according to illustrations, which actually all remain deficient."
+para32s3,"Furthermore, the illustrations, which have to provide us here with what the book print easily and with ever greater accuracy does for the written remains, they themselves, these casts, impressions, molds, are not a viable commodity for the most worthy works of art."
+para32s4,"Already through these difficulties, many who otherwise wished to encompass antiquity as a whole are permanently excluded from this beautiful part of it: but far greater is another obstacle."
+para32s5,"For the appreciation and enjoyment of the works of the spoken arts, everyone brings or acquires, more or less easily, such previous knowledge, without which both cannot be attained: it is quite different with the works of drawing and painting, where the elementary exercises and skills, the first conditions of all true enjoyment of art, are seldom included in the right measure in youthful instruction."
+para32s6,"   In this respect, too, the Greeks were more concerned with what gives a humanly beautiful education than with such knowledge and training, by which the citizen is prepared for a certain need of the state's prosperity."
+para32s7,"To the litterary, or, as they say, artistic preliminary exercises taken up early in the lessons, the art of drawing was later added as a part of the ἐγκύκλια παιδεύματα of a well-educated youth."
+para32s8,So says Aristotle Polit.
+para32s9,"VIII, 3: ""The youth is instructed in drawing, not in order not to be deceived in the buying and selling of household utensils and other art objects, but in order to gain insight into the essence of physical beauty: for to look everywhere only at the advantageous is unworthy of the free and noble-minded"". In Greek opinion, the occupation with the liberal arts and knowledge did not yet give a valid claim to liberal education; everything depended on the way in which it was pursued, and whether it was for the purpose of providing the whole man with an all-round education of his noblest powers."
+para32s10,"Music, for example, pushed to virtuosity on one instrument, seemed illiberal to the thinking Greek where it was not supported by other talents and skills."
+para32s11,Vgl.
+para32s12,Aristotle.
+para32s13,a.
+para32s14,a.
+para32s15,O.
+para32s16,Cap.
+para32s17,6.
+para32s18,"In a similar sense, one hears the philosophers, mathematicians, and astronomers in Greece speak of the merits of their sciences."
+para32s19,"Thus Archimedes spurned the very fame for which alone the crowd admired him, that of his mechanical inventions, ""as springing from necessity, and therefore all too akin to the works of the merely serviceable arts."" Plut."
+para32s20,in Marcellus T.
+para32s21,I.
+para32s22,p.
+para32s23,305 et seq.
+para32s24," Archimedes, who had a great mind and depth of soul and a richness of theories, so that, since his name and glory were not of a human but of a demonic constitution, he did not produce a textbook on these things, but a treatise on mechanics and a treatise on the whole art of bravery [p."
+para32s25,"480] rude and brutal leader, to those who alone put down his ambition, to which the good and unnecessary lack of the necessary care, being incomparable to others, but first providing the proof to the material, of which on the one hand the size and the beauty, and on the other hand the precision and the power of the super-genius provided ..."
+para32s26,  Man s.
+para32s27,"the further execution in Jacobi's imaginative treatise on learned societies , p."
+para32s28,8.
+para32s29,folgg.
+para32s30,u.
+para32s31,"Bossut, Essai sur l'hist."
+para32s32,gen.
+para32s33,d.
+para32s34,Mathematics.
+para32s35,T.
+para32s36,I.
+para32s37,p.
+para32s38,58.
+para32s39,75.
+para32s40,seq.
+para32s41,"  Therefore, according to what we said above about the necessity of one's own productive skill for a deeper understanding of the writings, one could also claim here that in the end only the few who were born with artistic talent and equipped with erudition used the best opportunities to acquire the necessary technical knowledge practically and theoretically could reach true perfect connoisseurship."
+para32s42,"However, such people often regret that they are not familiar enough with literary antiquity to be able to pursue their insights into ancient works of art as a part of our science."
+para32s43,"Thus, especially since Winckelmann's great and especially favored process, some litterators seized it, who were not allowed a voice either by the scholars or by the artists."
+para32s44,"It is no wonder, then, that ideas and dreams about works of art and artists spread, and that someone who has never felt a poetic mood in himself, who has never made the slightest attempt at poetry, who has only learned from a few textbooks how, for example, a poem comes into being, could bring up something like this about poets."
+para32s45,"In this regard, at least older archaeologists behaved with assured modesty, since they offered the works of art as mere monuments of antiquity and as explanators of the most eye-catching attributes and similar things."
+para32s46,But the appreciation of the works of art as such suffered far too much from this to be able to forget the interest of science above the virtue of the scholar any longer.
+para32s47,"In the future, therefore, it will make its claims, as it has done since then, regardless of whether they are fulfilled early or late."
+para32s48,"If, however, good teaching methods should continue to lead more easily to thorough studies of the ancient languages, and if the well-circumscribed circle of ancient knowledge is then held out to a more vigorous youth, we have no doubt that the scientific requirements will approach their fulfillment more and more the more often and urgently they emerge."
+para33s0,"In the past, the arrangement and classification of materials used to explain ancient works of art was so unclear that it seemed as if the most ingenious works of the artists were by no means to be considered for what they themselves announced themselves to be."
+para33s1,"Rather, they were regarded as one might read a victory song by Pindarus or a tragedy by Sophocles for the sake of useful history and mythology; furthermore, the most disparate things were mixed together as remnants of ancient peoples: and this is what the classification that Jac."
+para33s2,"Spon suggested, attaching the name archaeography to the whole customer."
+para33s3, In Miscell.
+para33s4,eruditae antiq.
+para33s5,1685.
+para33s6,f.
+para33s7,also in Poleni Suppll.
+para33s8,T.
+para33s9,IV.
+para33s10,"The first of the current French antiquarians, A."
+para33s11,L.
+para33s12,Millin in his introd.
+para33s13,"to the study of the ancient monumens, Paris 1796."
+para33s14,8.
+para33s15,"  One has since then the vague and not much appropriate names archaeology and antiquarian study, L'antiquaria among the Italians."
+para33s16,"In Germany, people have also said study of antiquity."
+para33s17,"Of the recently attempted arrangements, the most applaudable is undoubtedly the one given by Böttiger in the 1."
+para33s18,Th. of his allusions to 24 Vorless.
+para33s19,"about archaeology, Dresd."
+para33s20,1806.
+para33s21,8.
+para33s22,whose continuation is delayed for too long.
+para33s23," preferred, and tried some better arrangements."
+para33s24,"However, now that a good pattern is followed to distinguish the works of art from the monuments of antiquity, the boundaries of the area are again sometimes left fluctuating, and sometimes some things are neglected that can contribute to the knowledge of the historical context."
+para33s25,"In order to treat each important piece of the antiquity expressed in pictures according to its value, a complete enumeration of what has been preserved, as much as possible, will be necessary."
+para33s26,"According to this plan, the stock of plastic, graphic, glyptic, architectural and other such remains would have to be collected and listed for an introductory note, in as good an order as can be done, namely the statues, busts, reliefs, drawings, paintings, musiv works, cut stones, the debris of ancient architecture, along with other remains of subordinate merit, which could be called the prosaic pieces of the art world."
+para33s27,"Whether one wants to include here or in another place the most important facts about the life circumstances and curiosities of the artists can seem indifferent; only such news cannot be completely ignored, and can hardly be included in the history of art itself."
+para33s28,"But as far as the enumeration of the preserved works is concerned, everyone, by the way, far from expecting as much from it as the fabric libraries give us in regard to the writings, will wish at least for the time being an index that will make us acquainted with the pieces set up in the museums and galleries of Europe, some of which are illustrated somewhere, some of which have otherwise become famous."
+para33s29,"  This need, which is certainly felt by many, was already pointed out by Heyne in his eulogy of Winkelmann: ""A directory, a repertory of all antiquities known to man, would be one of the first works that the need for the study of antiquity demands."
+para33s30,"This directory is for the time being only historical and litterary; it contains the historical news of what has already been corrected of each piece and what has been judged of it, where one can find a message and a drawing or copperplate of it."
+para33s31,"This directory, once an appendix is made, can soon be made more correct, more critical and more complete, and supplements will then be supplied from time to time by whoever is able and willing."
+para33s32,"  Such a repertory would then be taken into account in the closer explanations in the following disciplines of art theory and art history, and one would be invited to the whole study in an attractive way by the overview of so many and diverse remains."
+para33s33,"The fact that through such first acquaintances nothing more than general knowledge, not yet founded by own insight, would have to arise, would do little to the hoped-for benefit: it is the same case in the external history of literature, where also only enumeration of the writings according to ages and classes with citation of the best foreign judgments and criticisms about the content of the writings is expected."
+para33s34,"With the explanation of this introduction, it would be understood anyway that much would be presented to the eyes of the learner either in originals or in impressions and copperplate engravings, accompanied with individual remarks about beauty and age and the stages or counterparts of it, as the opportunity just found."
+para33s35,"The other disciplines, each according to its own determination, will then have to take care of the correction and communication of more precise knowledge."
+para34s0,"The next, it seems, must be an analogue of what grammar, hermeneutics and criticism did for the written works."
+para34s1,"For their understanding and for the formation of a correct judgment about them, the works of art also require a threefold similar theory, which we can call art theory."
+para34s2,"It is not intended to repeat anew the material already supplied by the history of the nations, antiquities, and mythology: now it is time to explain in context, theoretically and practically, the principles and technical rules according to which the artists of antiquity worked, and according to which, consequently, we must consider and explain their works, and distinguish in them differences of style and work, earlier and later age, authenticity and falsity."
+para34s3,"Here also belong the teachings of symbolism, allegory and all iconology of art, where everywhere many objects present themselves, which demand new philological and philosophical conclusions."
+para35s0,"In the two sections of the archaeological teaching circle described so far, it was already necessary from time to time to explain individual things from the history of art."
+para35s1,"Now one expects a strictly historical execution of everything that concerns the germination, the blossoming and development of art, according to its different branches, at each of the peoples that once drove or promoted it; from the time of the first preludes up to the period where, after long elementary exercises led by the Asiatics, the beautiful, actually Greek art broke through; then through this age, rich in artistic products, until the loss of Greek political independence; finally still through the late centuries, from which by far the most of the saved monuments are written; everything here sometimes more detailed, sometimes shorter, depending on whether a period has distinguished itself by ingenious imitation or technical diligence."
+para35s2,"Here the view is to be directed persistently to the art itself, and to the classical works of every kind, since with such historical developments it is no longer a matter of notes from the stock of the remains, also this stock would not even be accommodated here; yes, we are compelled by the loss of the vast majority of the great works before Alexander's time, to occupy ourselves just as much with what once existed and its newly attempted construction, as with the remains that have come to us by chance."
+para35s3,"But in order to put the works in their right places according to critical principles, we need an Ariadnian thread that replaces the lack of time determinations, which the works of art, like the written ones, do not bear on their foreheads."
+para35s4,"Such a thread is given, as we hope Göthe's and his art friends' acumen will teach in detail, by the coins passing through the periods of flourishing art in their technique and whole treatment, which helps through well-prepared observation and comparison to a similar apt act, as the observation of the time - and place - peculiarities in the old writings causes."
+para35s5,"Although the study of coins has its place elsewhere, this fruit of numismatic knowledge, which grows in all art history, is already indispensable here; as we would assign numismatics the first place without hesitation, if we were talking about the sequence in which every art history is to be carried out."
+para36s0,"Before we come to this science , the archaeology of architecture deserves a brief mention."
+para36s1,"That also for the insight into the magnificent remains of this genre both a preliminary note of the preserved, as well as a theory of art according to the patterns and rules of the ancients, finally an actual history of architecture is required, is sufficiently evident from the similarity with the above."
+para36s2,"Especially, however, whoever wants to get acquainted with this class of works not as an architect , but as a learned antiquarian, should direct his attention to everything that from there can serve to illuminate the rest of art history."
+para36s3,His construction is definitely different from the one the future practical construction expert is working towards.
+para37s0,"Following the above order, numismatics now takes its place as the first of those doctrines that refer to the third genus of remains, those of mixed type."
+para37s1,"Again, a very spacious field, which, however, has been worked on all sides and facilitated for study by the writings of Eckel and other recently deceased scholars, who dedicated their lives to it under advantageous circumstances."
+para37s2,"And how considerable is not the library of old books on this subject! By the amount of such writings is now finally exhausted so much on the history of the old states and regents, and at most left for individual brooding acumen a significant gleanings, that we are the more encouraged to the occupation with the coins to direct attention to the purpose previously thought."
+para37s3,"In this way we may be able to get rid from archaeological criticism the deceptive opinions and suspicions which so often block the access to the truth, and we will learn, where firm principles and a divination based on principles are not sufficient, rather to assert the genuinely learned confession of ignorance."
+para37s4,"The immodest and profound criticism or modest uncriticism that many antiquarians have made since then might seem unbelievable to actual philologists who learned to proceed with scientific rigor and subtlety in their written works, and would like more than anything to discourage them from the study of antiquities."
+para38s0,"The second doctrine of this series goes to the ancient Greek and Latin inscriptions, which also provide so much material for the enlightenment of antiquity that some scholars, especially Italian, have spent lifelong diligence on it."
+para38s1,"However, epigraphy (under which name we understand everything that refers to stone and metal writings) becomes important to us not through the forms of beauty, but through the grammatical, lexical, geographical, historical and other contributions that can be obtained from it alone to complete some gaps in our knowledge."
+para38s2,"One of the most distinguished sections here is Greek and Roman diplomatics, which brings us back to the threshold of grammar, to the vivid knowledge of the alphabets, as they preceded long before our Greek and Latin manuscripts."
+para39s0,"Through this total number of disciplines, the whole field of our science is presented in all its areas in such a way that its content and size is generally apparent, and that it is easy to select and separate from it what is worth teaching and learning for propaedeutic instruction or for the pre-school of literary careers, for what the English call classical education."
+para39s1,"Only some of those objects of teaching, connected with the basic knowledge of history, mathematics, physics, description of nature and philosophy, should actually, according to the well-understood language usage even of the ancients, bear the name humanity - studies."
+para39s2," When the Romans put studia humanitatis et litterarum together, as they do, they quite actually related the second word to the Greek φιλολογία, which in some sense can be associated with almost any science."
+para39s3,"The medical, mathematical and similar sciences, even philosophy, can be practiced and cultivated sine litteris, as can still be seen today in famous examples, as Epicurus did."
+para39s4,"However, the name studiosi litterarum does not belong to them according to old good usage."
+para39s5,"Humanitatis studia, on the other hand, encompass everything that promotes purely human education and the elevation of all spiritual and mental powers to a beautiful harmony of the inner and outer man."
+para39s6,The closer determination today must of course depend on some differences of the conditions in which we stand against Greeks and Romans in the periods of their best culture.
+para39s7,"The English saw and followed this most correctly, as can be seen from Knox's book on liberal education, Sheridan's on education and from several similar writings."
+para39s8,"This nation was least of all persuaded to disregard the old literature and languages by educational artists and innovators who, even from America, wanted to light a more benevolent light of culture in the mother country."
+para39s9,An essay worth reading in this context is contained in Godwin's Enquirer P.
+para39s10,I.
+para39s11,"Essay 6 , written around the time when a German pedagogue attacked the study of ancient languages in our country with terrible weapons, in a volume of a general revision of education, which presumably will soon have to be revised again, after one has seen the fruits of so many exaggerations."
+para39s12,"   On the other hand, many subjects from the encyclopedia of knowledge designed here, which must not be offered to the mixed bunch at all, are just not more useful for the cultivation of human education than our otherwise so admirable exact sciences."
+para39s13,"By the way, there are enough thorns on the paths that lead to the flower fields; patience and persistent diligence may be practiced on these thorns, and the scattered mind of the youth may learn to collect itself, often the only gain of importance that the youth gets from the mathematical beginnings for the rest of his life."
+para40s0,"In order to leave nothing essential to foreign hands, we conclude with a historical overview of the fate of our science, since the decline of the last philosophical schools at Athens under the reign of Justinian, through the long Middle Ages, until the end of the eighteenth century, along with the general philological and antiquarian book lore."
+para40s1,For individual news of more important writings and occasional bibliographical information could be conveniently provided earlier.
+para40s2,"This last section is by its content, which interferes with each of the previous ones, and by the side glances, which it must cast on the course of modern scholarly culture, one of the most attractive and useful, especially if one wants to interweave into it the biographies of the most famous and most effective litterateurs of their ages."
+para40s3,"The most noble intentions, however, which are important here, unite to get to know the spirit, the character, the points of view, in and under which one has worked on these studies in recent times according to changing needs and tastes, in order both to examine the coexisting purposes and advantages of the same according to their relative value, and to grasp the equally great and worthy main purpose for all times, which alone, although still little recognized, should make the study of antiquity more general and perpetuate it."
+para41s0,Now what is this main purpose of the knowledge presented here in outline?
+para41s1,"Let's climb up to the top over some of the hills on which, in different periods, it was believed to have found the richest viewpoints."
+para41s2,"For since the many-sided building has, as it were, several parts and stairways, it was enough for most people from time to time to choose a location on this and that, and one thought oneself rewarded enough for such efforts by individual gains; some probably believed to see the most sublime goal already in the middle of the path."
+para41s3,"Now, however, after we have set up the objects of the most diverse efforts in their coherence and have seen the unity in the manifold, now it will be easier to take a clear view and to discover the highest purposes and points of view of the whole."
+para42s0,"There was a time, from the fourteenth to the sixteenth century, when the works of antiquity were regarded not only as the only patterns in every representation and art, but also as magazines of the richest thoughts and principles, by means of which one could form new circles of knowledge and found the just emerging systems of sciences."
+para42s1,"The history and politics of the ancients were studied in order to make use of them in the institutions of the young states and even (diplomats may be astonished) in higher business life; ancient poets, orators, historians were read and commented upon in order to compete with them in poetry, in declamations, in patriotic stories, as the artists in Italy tried to do with the first discovered works of art."
+para42s2,"Thus, in the first joy over its reawakening, antiquity was soon grasped as a great whole, rich in ideas and things, every part of it was put to direct use, and efforts were made to derive both material and scientific as well as various formal benefits from it."
+para42s3,"It cannot be denied that these were all beautiful and fruitful views for those times; however, few of them can still be ours."
+para42s4,"The sciences have since enriched themselves beyond recognition; small textbooks of the moderns contain more well-founded propositions, more established truths, than the greatest works of famous ancients, and in order to collect hidden grains of gold from the latter now and then, the digging seems too precious:Even gold can be bought too expensively, one often heard the forefather of modern German pedagogy say in conversations, when he had to admit that Greek antiquity preserves magnificent treasures of moral wisdom that are still worth searching for."
+para42s5,"By the way, our world has taken such a new shape and our knowledge everywhere such a patriotic one that for art productions in an old language there are almost nowhere stages for exhibition and examining judges."
+para43s0,The purposes on which one tried to base the study of antiquity knowledge were of lesser content.
+para43s1,They were mostly related to subordinate material advantages.
+para43s2,"Thus, it was generally recognized that much of that knowledge helps the sciences of our present-day public needs, and accordingly recommendations were made as to their usefulness in the state for the better practice of the so-called main sciences."
+para43s3,"In the past, philosophy itself was considered to be honored by casting a favorable glance at it, as if it were a maid of the higher faculties, uncertain whether she was holding the torch or dragging the train."
+para43s4,"In this respect, however, our studies could not even be honored in the same way, since the predominant sciences of the time, long since released from the influence of Greece and Rome, could not expect any significant discoveries."
+para43s5,"But where one found nothing more to learn from the ancients, one often forgot how many things could be learned from them forever: otherwise one would, in order to say only something of many things, show in detail how the ideal direction, which we assume from the study of the ancients with correct guidance, must fertilize our mind and promote it in most scientific endeavors."
+para43s6,We recently read excellent thoughts about this in an introductory essay by Fr. Creuzer to a piece of translation from Plotinus in the I.
+para43s7,Th. of the work carried out by him and C.
+para43s8,Daub published studies.
+para43s9," have investigated not only the results of their investigations but also their scientific methods, even in sciences where we are far above them, for example."
+para43s10,B.
+para43s11,"The first is the mathematical one, whose learned connoisseurs still do not deny their admiration for the proofs and the whole synthetic process of the Greek inventors."
+para43s12,"Besides, the earlier history of sciences has still a special interest, as far as in the scientific principles of newer time here and there darknesses lie, which can be lifted only by the connection and the analogy of older kinds of conceptions."
+para43s13,"However, the importance of our studies is most obvious in those parts of knowledge which from the historical side rest entirely on antiquity."
+para43s14,"To this class belong especially the Protestant theology supported by liberal scholarship and jurisprudence, which goes back to Justinianic law, consequently to the sources of ancient Roman and even Greek law."
+para43s15,"This, however, must still be the basis of every scholarly treatment of civil law, because many concepts in it are only clear from the standpoint in their Roman fatherland, even more so because the old laws or fragments, as much as they have come down to us cut and mutilated, form a scientific foundation on which the moderns have erected their legal buildings according to changed needs and conveniences, form a scientific ground on which the moderns have erected their legal buildings according to changed needs and conveniences, a ground of such a similar analogous spirit of the principles that the fruitfulness of it still guides and enlightens us where no explicit provisions give light ; a case that is not to be expected from systems that have gradually arisen from heterogeneous habits and principles."
+para43s16,"In such sciences, therefore, whose first sources flow more or less from antiquity, no thorough insight can be gained without having made oneself familiar with the constitutions, ways of life, languages, and ideas of the ancient world: on the other hand, the greatest disruption of this knowledge would take place if philosophy, which by its very nature often transforms itself, were to take the place of the historical foundations; of which the barbarism of former times has given warning examples in theological and legal literature."
+para43s17,"   How theology suffered under unlearned hands is not unknown, and has often been lamented since the first reformers."
+para43s18,"Rarely do we hear similar complaints from legal scholars, as in the following passage from Mureti Praef."
+para43s19,ad Comment.
+para43s20,de orig.
+para43s21,"iuris : Hodie non aliter ius civile discere cogimur , quam si, sublatis et exstinctis Omnibus Aristotelis eiusque interpretum scriptis, fragmenta tantum quaedam reperirentur, e variis Alexandri, Themistii, Simplicii, Philoponi et aliorum decerpta commentariis , ex quibus utcumque in communes locos digestis Aristoteleam philosophiam discere iuberemur."
+para43s22,Accessit aliud multo perniciosius et exitiosius malum.
+para43s23,"Nam, quum superioribus saeculis , densissima quadam caligine animis hominum offusa, omnes propemodum bonae artes oppressae ac sepultae iacerent : exstiterunt in illis tenebris homines audaces ac praefidentes , qui nulla Latini sermonis intelligentia, nulla veteris reipublicae Romanae cognitione , arrepto , ut inter caecos , iuris interpretandi munere , verbosissimis et insulsissimis commentariis illas qualescumque veterum Prudentum reliquias onerarimt , et ita imposuerunt generi humano , ut hoc quoque politissimo et eruditissimo saeculo iudicia tamen plerisque in locis ad eorum somnia dirigentur , et ex eorum indocta doctrina exerceantur."
+para43s24,"Quos quod quidam inelegantes quidam et incultos, sed magno tamen ingenio et acri iudicio praeditos vixisse aiunt ; de istoc videbimus."
+para43s25,"Nam ne ego quidem eis ingenium adimo; nimis potius ingeniosos fuisse dico: illud quidem certe negari non potest: cuius quis civitatis neque linguam teneat , nec formam , leges, mores, instituta cognoverit , eius ius civile non posse ab eo , quamlibet ingeniosus sit, commode intelligenterque tractari."
+para43s26,"Satis igitur magna graiia iis haberi non potest , qui hanc caliginem discutere , et istis impostoribus personam, sub qua tam diu hominibus illuserunt , detrahere conantur , ac perficere, ut, quemadmodum ceterae omnes disciplinae a teterrimo barbarorum dominatu litteratae , splendorem suum his temporibus receperunt, ita disciplina iuris tandem aliquando in pristinam restituatur dignitatem etc."
+para43s27,"   In all of this, this whole historical point of view and the material benefit connected with it, as estimable as it may be, is alien to antiquity and its works and quite accidental."
+para43s28,"It is also easy to see where such an appreciation of learned means of education would have to lead to, as soon as one or the other of these needy sciences, more than has already happened, would detach itself from the prestige of old writings and their interpretation: the beautiful manual skills would then soon lose even the last distinction that the traditional opinion has lent them."
+para44s0,"It would be just as poor to recommend a study of such a wide scope, as has also been done so far, by the one-sided use of linguistics, in so far as old languages are still considered tools of today's scholarship."
+para44s1,"In any case, this can only be said of the Latin language, or rather it could be said in previous times, when most of the teaching was still given in Latin and the libraries consisted almost exclusively of Latin writings."
+para44s2,"This language would be sufficient for that purpose, and that Latin, which had been written badly enough for several centuries, so that for its knowledge it really did not need a tedious journey over Hellas and Latium."
+para44s3,"Few would have to bother about the Greek language, except to learn how to pronounce, write and etymologically understand a few hundred artificial words of their science."
+para44s4,"And would this be worth so much expenditure of time and effort, since it cannot be learned even at the top, if it is to be really learned, not assumed on foreign faith?"
+para45s0,In peculiar dignity and with the most fruitful tendencies the study of ancient languages shows itself when it is considered independent of any relation and as an end in itself.
+para45s1,"This consideration is based on the following main theorems, which are quite considered by a few."
+para45s2,"The languages, the first art-creations of the human mind, contain the whole stock of general ideas and of forms of our thinking, which have been won and developed during the progressive culture of the peoples; they therefore supply in their signs a set of individual paintings of national ideas, by which the content of partly sensual, partly especially intellectual ideas and the characteristic in conception of both is represented."
+para45s3,"Accordingly, any language reasonably adequate to its purpose must present certain classes of ideas, exquisitely worked, perfected, and designated by appropriate expressions according to the physical and moral individuality of the people who formed it."
+para45s4,"In the kind of the designations, however, no smaller treasures lie than in the signs themselves."
+para45s5,"For, just as the latter in every language enrich the researcher with new ideas and thereby widen his intellectual circle of vision, so the modes of designation and, as it were, the imprints which every nation has impressed upon its ideas, grant a still less recognized, but equally manifold profit."
+para45s6,"Through the knowledge and diligent examination of these imprints in several languages, we first begin to find our way in the intellectual world, and to learn to know and use the riches of it already acquired at home better, since the various modifications of similar main ideas force us to perceive the dissimilarities occurring in them, and to understand such ideas, which were already known to us under other forms of thought, from new sides."
+para45s7,"Thus, in the words and expressions compared with each other, we do not obtain paltry treasures of many signs of the same kind, but a truly enriching stock of means for the resolution and composition of our ideas, which cannot be obtained in any other way; and on this again are based exercises of the intellect, which provide a dexterity and skill without which no higher operation of it can proceed.See G."
+para45s8,B.
+para45s9,"Funk's kleine Schrift: Ueber den Nutzen richtig getriebener Philologie, a treatise by one of Germany's best and most learned schoolmen, which in content and execution outweighs a lengthy book."
+para45s10,It is reprinted in the Berlinische Magazin.
+para45s11,cl.
+para45s12,Sci.
+para45s13,u.
+para45s14,K.
+para45s15,1784.
+para45s16,B.
+para45s17,II.
+para45s18,St. 1.
+para45s19," We will come back to this remark later, when we talk about the value of grammatical exercises: for the moment, we were only concerned to indicate one of the most distinguished tendencies of all linguistics in general."
+para45s20,"But if hereafter every not poor and crude language rewards its learning by itself, then a rich and educated one must do this to a much higher degree; if every newer derived Meng-language of a great nation, then far more an older and original one, or one that has sprung mostly from its own stock."
+para45s21,"Here it does not seem intrusive to draw attention to some characteristics of the two learned languages (linguae utriusque, as the Roman Pride said), by which these languages, especially the Greek, stand out far ahead of their alternate and disciples sisters."
+para45s22," One has several declamations de praestantia linguae Graecae , a topic with which the teachers of Greek literature used to often open their lectures."
+para45s23,"But who has read, only seen, many such small writings?"
+para45s24,One of nobler character and more scientific content is D.
+para45s25,Ruhnkenii Orat.
+para45s26,"de Graecia , artium ac doctrinarum inventrice , L."
+para45s27,B.
+para45s28,1757.
+para45s29,4.
+para45s30,"It deserves, if there were room for it, a detailed explanation of how happily the mother tongue of the Muses has passed through every natural stage of education; how it was educated and nurtured by each of the intellectual powers that developed in the Greeks in the most beautiful succession, worked and chastened for poetry, eloquence, philosophy and many other kinds of scientific presentation, with almost equal youthful tenderness and fullness and strength, reached the highest age in which she was still able to stir up half-barbarians to human sentiments and feelings, and even in the last centuries to breathe something of her spirit over into her degenerate fatherland and into the West of Europe; how she was rich in designations of sensual and especially moral concepts, versatile and significant in types of designation, pictorial in easily comprehensible forms by composition as well as by derivation from her own sources, finally how she created the thought deeply, firmly grasping it, often depicting it vividly, at the same time penetrating into the interior of the feeling and the affect, and still painting with colors, as it were, where the business languages of the late world almost make do with a mathematical plus and minus."
+para45s31,"No less important for the historical and philosophical purposes of linguistics is the remark that that language, because it was not until late that it came under the rule of master grammarians, had for a long time to express purely the peculiar way of thinking of a nation and to remain the unclouded mirror of the national spirit; a side in which it is far superior to most of the newer languages, although ours and English may well compare with Greek in this respect."
+para46s0,"Furthermore, in the case of each of the ancient languages, not only such advantages as those just mentioned come into consideration, but also, what is usually not considered, precisely their age and our youth."
+para46s1,"For to the extent that a people is more distant and more different from us in way of thinking, customs and way of life: and such deviations are already caused by the distance of time: the more views of things unfamiliar to us, the more new ideas and new modifications of them the language of the people must necessarily present."
+para46s2,"A proof of this is the ease with which we learn about three present-day languages of our neighbors against one of the old ones, in that a certain, one might say, neo-Europeanism unites them as if into one idiom: the very greater difficulty of an old language, which points to a foreign world of ideas and designations, also promises in general to reward our effort more richly."
+para46s3,"But what is said here about the languages of distant times is equally true of the simultaneous ones of the distant regions of the world; so that these, if the choice were not determined once by conventional considerations, would always be the more worth learning among those of today."
+para46s4,"Perhaps this series of remarks will seem strange to some readers, who see considerable masses of people here and there sufficing with One Language for every need and feeling well thereby: but it will be remembered that we are not speaking of the use of the most divine of all heavenly gifts for the common necessities of life, but of the most important aid which their possession and handling afford to the development and refinement of our power to think and feel."
+para46s5,"Accordingly, a nation is by no means fortunate which can promise and complete all higher education in its national language, and is thus prevented from learning excellent foreign ones: indeed, it has cause to complain of a kind of spiritual conspiracy if we do not reproach our neighbors for their so disadvantageous situation, or even encourage them in it."
+para46s6,"For, however conveniently and sufficiently it may use its language for writings of political, economic, medical, military, mathematical, and other useful content, it sees itself deprived of a multitude of advantages in everything that goes beyond the hot-hungry demands of civilization, on which alone the versatility and depth of all culture rests."
+para46s7,"So it must at least seem until perhaps in future times a nation will emerge again which will develop the most unconventional qualities in the language of its fatherland and will give the human power of thought to be measured by its own standard, provided that then also such a nation, like the Greek before the time of its tradition, will not want to work in investigations of the earlier destinies and conditions of our species, but only in ingenious productions of native arts."
+para46s8,Whether there is any hope for an appearance of this kind can be guessed without artificial divination.
+para46s9,  Schelling at the angef.
+para46s10,O.
+para46s11,S.
+para46s12,33.
+para46s13,"The newer world is in itself and especially in science a divided world, which lives in the past and in the present at the same time."
+para46s14,"In the character of all sciences it is expressed that the later time had to start from the historical knowledge, that it had behind itself a submerged world of the most splendid and greatest phenomena of art and science, with which it was connected not by the bond of an organically continuing education, but only by the outer bond of the historical tradition."
+para46s15,"   Meanwhile, the languages of the learned antiquity may occupy us not only because of the works that present themselves through them alone in innate beauty and power to contemplation and enjoyment : Not as fashionable garments and shells of ideas, but as works of art intimately interwoven with the ideas, these languages themselves are a kind of monuments to us, worthy to be studied most carefully and to be observed in their finest parts with anatomical diligence, partly in order to perceive in them the organically progressing education of a happily gifted people, partly in order to thereby increase our own education, and to gradually appropriate from the same to our languages as much as each can bear with gentle discipline and strict kindness."
+para46s16,This is the way in which the moderns once began the desecration of the crude and the formation of the languages captured by accidental robbery; this way is to be trodden ever anew in order to perfect them for the objects of all popular and peoples' delightful knowledge in such a way as the measure of their facilities and the widened circles of our conceptions and insight permit.
+para46s17,"The most beneficial, as has been tried again recently, will be the eager use of such a spiritual language as Greek for German, which is similar in some points, especially if several writers take care of it, who from exact knowledge of both know how to hit the lines of the right and beautiful in each style at the same time."
+para47s0,"A purpose of our studies, related to the above but different, lies in the way of studying both the ancient languages and the other objects indicated above."
+para47s1,"Here, first of all, the methodical spirit is to be considered, of which the nobler languages, more or less imbued, made their learning an apt means of mental formation, without any regard to what was learned."
+para47s2,"Therefore, our ancestors went so far as to impose the grammar of those languages in a rather daunting form as a useful gymnastics of the mind even on those who sought only general, not literary, enlightenment."
+para47s3,"They considered the time that someone, who never wanted to become a linguist, spent on such lessons for a few years, to be unlosable; just as perhaps a careful mother, before all ennobling arts, would expect the art of dancing from a boy, whose seriousness is seen in the fact that he would carry his body through the world in the simplest way, and would not want to appear either as a lover or as a master of the art."
+para48s0,The grammar itself can be divided into the exegetical and technical.
+para48s1,"The former, which explains the mass of words and phrases with their sounds, forms and meanings, supports especially the above-mentioned purpose of analysis and composition of our ideas."
+para48s2,"But in order to achieve this purpose to the most desirable extent, it is necessary to compare the mother tongue with one and another deviating ancient one, just as Greek and Latin are against every modern one."
+para48s3,"But after all the preliminary work that has been done since then, it is still left to one's own, long-continued diligence to investigate philosophically and historically, by etymology, analogy and research of usage, how and when the signs of the ideas first appeared, in which boundaries they became fixed or between which they fluctuated, how the transitions from one idea to another arose; how the various meanings of the expressions that grew out of them approached and departed from one another synonymously; how this and that expression became native to one or another genre of speech and its graded tones; how the words that never intended to represent the things themselves changed under the influence of opinions and mores, reshaped themselves, recolored themselves; how some became rarer and more inconspicuous or perished altogether, others of fresh formation took their place."
+para48s4,"Only when such individual studies will be completed in large numbers in both languages, will lexicology approach its perfection, as technical or methodological grammar has recently begun to do."
+para48s5,"The latter, for all its shortcomings, has been the most useful preliminary study of the actually learned education; but it would, if combined, after the pattern of the Stoics, with an introduction to philosophy, become at the same time one of the most attractive pursuits."
+para48s6,"To this, no doubt, some might smile, to whom grammar did not appear in a charming form: but even such smilers must recognize it as useful, and as the best applied logic, which proved beneficial to themselves, since they often affirm to have learned nothing more from the theoretical than how a man thinks, who has the art well in hand, and does not imagine himself to think artlessly."
+para48s7,"If, however, the teaching of language did not prove its merit everywhere, as it should, it could only be through the fault of bad methods: but who could burden it with something by which every other means of education, every knowledge or science would have to fail of its purpose?"
+para48s8,Radio on a.
+para48s9,O.
+para48s10,S.
+para48s11,115.
+para48s12,"The only remark would certainly stand here in its right place, that wrong methods would probably be in general circulation as well, if, all other things being equal, the objects of youthful instruction were changed completely."
+para48s13,"In mathematics, e.g."
+para48s14,B.
+para48s15,is the least likely of all the sciences to give rise to a pointless memoir.
+para48s16,"Nevertheless, as soon as it would be necessary to employ a few thousand teachers of this science in every country, and that for the presently usual rewards, it would not be easy to miss, one would also have to accept these teachers, as well as they could be obtained under such circumstances; and then, without a doubt, in many schools theorems and demonstrations would be learned by heart just as thoughtlessly as at present not infrequently incomprehensible rules of grammar and names of incomprehensible ideas."
+para48s17,"If this assertion seems too daring for someone, I could add that the casus really existed in terminis."
+para48s18,"In such a case, however, mathematics would be even more useless than the presently common study of languages; without, I hope, being suspected of approaching this science too closely, which I consider to be one of the most indispensable pieces of youthful education, and sincerely wish, with Diderot, for the times when every true scholar will be able to explain the properties of curved lines as easily and correctly as the beauties of Homer, Plato, Cicero, etc."
+para48s19,to feel.
+para48s20,"  Nevertheless, it is demonstrable that even crippled leaders on corrupt ways are not able to completely destroy the inherent advantages of things, and that the evil of corrupt methods carries its cure in itself, so to speak."
+para48s21,"For exercises of the thinking faculty in languages, which summarize the highest and deepest things that lie in man, open at least by their nature the field of all abstract investigations, and, treating the signs of our ideas themselves as objects, stimulate us to reflect on the intellectual world."
+para48s22,"Nowhere are the invitations to raise ourselves to it so ingratiating; but they show themselves most urgently when the unfamiliar organ of a foreign language is chosen for this purpose: such a language seizes the attention more strongly, and because it is not, like the mother tongue, rooted in the sensation, it forces us to bring the phenomena straight to the decision of reason."
+para48s23,"So, it seems, already Roman experts judged after a fragment of Cicero in Suetonius."
+para48s24,de.
+para48s25,Rhett.
+para48s26,c.
+para48s27,2.
+para48s28,"Equidem memoria teneo, pueris nobis primum Latine docere coepisse L."
+para48s29,"Plotium qttendam ; ad quem quam fieret concursus, quod studiosissimus quisque apud eum exerceretur , dolebam, mihi idem non licere: continebar autem doctissimorum hominum auctoritate , qui existimabant Graecis exercitationibus ali melius ingenia posse."
+para48s30,The purposeful way to treat the written works of antiquity and to enter into their whole sense and spirit works from other sides as a propaedeutics for a strong education.
+para48s31,Then there is no further talk of exercises of individual powers of the soul; an even play of all together begins when the business of explanation and correction is practically attacked; there is almost no scientific and artistic effort of the soul for which there is a lack of material and inducements.
+para48s32,"Even the first attempts at explanation are rewarded with many a beautiful gain, and allow the youth to cast independent glances into the higher pursuits of the human mind."
+para48s33,"But with further extension of the diligence to writers of all genres and times, the exercises become more fruitful through the greater difficulties that are found to comprehend the often hidden content of a passage and the peculiarities of a personal, local and temporal nature present in every writing, In the time span of many centuries, where always a later writer explains the earlier one, an earlier one the late one, one has to search for expressions, ways of thinking and various historical data, whereby at first seemingly impenetrable obscurities are dispersed."
+para48s34,"Another advantage, which is obtained in this and the critical occupation, can also not be appreciated enough, we mean a safe habit to weigh the most delicate moments of truth and probability according to their degrees, whereby objects of distant times do not, as the closer ones, dazzle our eye by proportion of the mind, or, as in the merely ideal speculations, enchant us by other deceptions."
+para48s35,"If one finally turns completely to the exercise of philological criticism, the mind gets used to picking out from a multitude of indifferently examined data and testimonies that which leads to the discovery of corruptions of the text and to their improvement; In this way, one learns what alone distinguishes the scholar from the well-read, to save the health of one's judgment from an often confusing tangle of useless material, and while one quickly renews previously received impressions and vividly visualizes greater and lesser peculiarities of one's writer, to decide between the voices waving here and there about the authenticity and correctness of a text."
+para48s36,"However, criticism sometimes takes a higher flight when it is stripped of historical testimonies and must judge solely on internal factual grounds and extract what has been lost from the context of what remains."
+para48s37,"Now and then a boldness becomes necessary which seems to the uninitiated to be vain temerity; and this boldness appears most fierily precisely where the ground has been examined beforehand with the most prudent coldness, that is, every thought and expression has been considered according to its appropriateness or inappropriateness."
+para48s38,"Elsewhere, the critic, as well as the interpreter, becomes similar to the enthusiastic seer when he gets to solve obsolete riddles, which every past century has always swallowed up more and more insolubly."
+para48s39,"For not seldom his divination is tempted in regions where no sound of a witness can be expected, to single, like weather-beaten standing monuments of the earliest time, whose origin and older condition can be understood only from general probabilities; approximately like the nature research often works over objects of the sense world, which no look and no seeing glass can reach."
+para48s40,"Naturally, the investigations of both kinds go into the small; so much into the small that they seem to many to be empty of content and their objects mere phantoms: only the connoisseurs see what the immeasurably small means in harmony with the great, and how the results of such researches can be made convincing, if not evident."
+para48s41,"And who would have a voice here, as in every art and science, except the connoisseurs?"
+para49s0,The same can be said of the critical and explanatory works on the works of ancient art.
+para49s1,"The same sobriety and dexterity in the conception of foreign ideas is also required and gained by them, if by examination of all moments, which come into consideration in works of art, their age or the class, to which each one may belong, is to be indicated, if from very scattered, even more often from mutilated, data a reassuring probability is to be found, because the degraded condition makes a firm decision impossible; or when that which can betray the obscured meaning of a work must be unceremoniously drawn from the great store of mythical legends and national conceptions, whereby the observer must openly surrender himself to every guiding impression, in order either to pursue the thought of a work of art in a definite way, or at least to suspect the original."
+para50s0,"Thus, the skill in interpreting and correcting the remains of antiquity affects our education by satisfying its own purposes."
+para50s1,"But (to repeat more forcefully what has been said elsewhere), only such a treatment of the works and monuments allows us to look into antiquity quite comprehensively; only our own occupation with the materials and forms of the same tunes our soul into the spirit of the ancients and prepares it for higher consecration, not an already finished, however faithful, representation of foreign hands."
+para50s2,"What can be drawn from such representations relates to those self-acquired insights, like the acquaintance with foreign peoples and people, which we make through travel descriptions, to the vivid knowledge, which the stay with them and a longer living together instill."
+para50s3,"Even less, finally, in ages that are equally rich in great figures as in comprehensive ideas, communicated knowledge may take the place of direct contemplation."
+para51s0,"In this paper, which should contain only hints, we cannot get involved in the appreciation of the remaining works themselves, as classical patterns in several genres of the spoken and drawn arts."
+para51s1,"This would give us material for a long section, if especially the fidelity of individual writers should be presented: for not a few are still in our hands, of which each, be he poet or historian or philosopher, alone opens up a wide circle of rewarding reflections, just as some require the diligence of many years for their critical, historical, aesthetic enlightenment."
+para51s2,"But the point of view from the side of the classicism of individual writers and works of their genre may prevail with the actual antiquarian much less than the purely historical, which takes up the phenomena in their organic development, whereby alone one secures oneself from comparisons of unlearned enthusiasm and other skewed judgments."
+para51s3,"Therefore, the dispute that was once waged among the neighbors about the literary merit of the ancients over the moderns should not be stirred up in any respect: for only literature was talked about at that time, the fine arts were hardly mentioned, probably because from this side the merits of the ancients were recognized as unattainable: But few of the disputants even distinguished what was important in such a complicated question, or considered what artistic balance was necessary for a set of moments, which, even if they were still perfectly known, would hardly remain possible for us to grasp and calculate according to their entire content."
+para51s4,"For our purpose here, it will suffice to touch upon some circumstances based in the external situation of the ancients, whereby among them, especially among the Greeks, litterature was extraordinarily favored."
+para51s5,"For first of all, in the ages that especially define classical antiquity, one usually only saw such men appear as writers who, as freedmen, had lived through their youth in an environment that awakened a worthy way of thinking, and had formed their character in the company of their peers and through civic activity in peace and war, far from all the restrictions by which people of the lower classes are pressed early, and later, through training in mechanical skills of the body, or, what is more pernicious, of the soul, are prevented from the free expression of strength and from the generation of great thoughts and resolutions."
+para51s6,"It is a questionable question whether without this single circumstance, slavery, great progress in the higher education of the mind would ever have been possible anywhere."
+para51s7,"In this respect, today's humanity, which again would hardly have arisen as a New European growth, must not sigh too much over that West Asian custom among the ancient inhabitants of Greece and Italy; for for this such a difference of masters and servants, early publicly accepted in human rights, can well apply, only that the great empires of Asia knew nothing but servants except a despot."
+para51s8,"By the way, a harsher name would hardly be appropriate to the matter in general in the Greek and Roman world."
+para51s9,"There were ages and regions where, even according to the testimony of the ancients, a serf had to be a very bad man, not worthy of any better lot, if he could not in a few years acquire freedom, his own army and a small branch of gainful employment, as the greater part of unpropertied freemen enjoyed."
+para51s10,This important advantage should not be overlooked when comparing certain newer constitutions with the old ones; although the legal nullity of the slaves often exposed them to the most inhuman barbarism of an overbearing master.
+para51s11,But everything became much different later.
+para51s12,"The Roman citizen was degraded and his formerly brilliant prerogatives were destroyed by more general distribution, and against the most depraved good-for-nothing the government became so humane that they were brought closer and closer to the free citizens from good families."
+para51s13,If only people had not become so loving since the Nerones and Domitians.
+para51s14," The noblest business was left to the writers, the written instruction of contemporaries and posterity; this business could also not be sought by anyone out of desire for a salary or honorarium: The writers were soon the organs of a whole people, who only educated, presented, represented what the united effectiveness of the most excellent minds had created; soon they were statesmen, who, resting from the noise of public life, set down in their writings the matured results of their own observations and experiences, or businessless thinkers, who devoted their efforts to the disinterested investigation of subjects, which did not easily promote the needs of individual cooperatives, but the generally most important affairs of man; In those times, when even the conduct of state affairs required little separate official knowledge, there was not even a learned class, in whose hands, as among the other policed peoples, any science could have become a caste property, instead of being a common possession of every citizen capable of intellectual culture.How late the scholars of the Roman world began to make out an own state, Hepewisch shows in his collection of small writings 1 or II St. And this was just the first momentous step that was taken in Greece for the ennoblement of mankind."
+para51s15,"Secondly, the constitution of the old republics and a certain secrecy of the books from the great multitude gave a freedom of speech which knew no other limits than those set by the recognized common good; only the citizen speaking before the people, not the writer, put on fetters of a newer kind."
+para51s16,"Thirdly, in the case of the Greeks, something that from another side had extremely detrimental consequences for the nation had a beneficial effect on literature, the political isolation of peoples and states: through this, each writer's small fatherland became his world, and his representations received an individuality whose lack can never be replaced by mere objective perfection."
+para51s17,"How compatible both qualities are, however, and how far-reaching the effects of a spiritual work, often intended for a small number of listeners or readers without further calculation and deeper awareness of the intention, clearly prove to us the remains of the Greeks."
+para51s18,"However national, indeed however tribal their poetry, oratory, history, and even their philosophy, their poets and other writers stand in eternal youthful vigor, and their historians with the celebrated heroes on loftier stages of immortality than were attainable to their late successors."
+para51s19,"Fourthly, the merits of such works receive a peculiar luster through the priority itself, which was once granted to the first writing peoples by favor of fate."
+para51s20,"Even the most witty writer, who imitates several in the same genre, finds himself limited in the choice of thoughts and modes of expression; he often sees what is right and beautiful anticipated, and efforts left for himself, which all too easily lead into error, the least of which is the flawlessness of imitation."
+para51s21,For what art of copying could ever replace the fresh genial imprint in which the solid thought and the powerfully expressed feeling emerge for the first time?
+para51s22,"In the near future, the writings from the youth of the nations will become more valuable to us for another reason than the more recent ones, with their far greater wealth of observations, ideas and things."
+para51s23,"From those we draw a stock of views and remarks about the world and people, which later could not well recur in equally general applicability, precisely because they must excuse their repetition by a treatment that deprives them of many recommendable charms."
+para51s24,"Therefore, the ancients may forever claim to remain the teachers and encouragers of all posterity by the simplicity and dignity and the great, comprehensive sense with which they express what is true and noble and beautiful."
+para51s25,"The reading and contemplation of their works will have a constantly rejuvenating effect on mind and spirit, not like historically presented characters, but like the intimacy with esteemed and beloved persons: thus, by the sentiments and feelings they communicate, they will improve the infirmities of education in corrupt ages, and move man beyond the manifold limitations of the present."
+para51s26," The Muses, who dwell only in the arts handed down from antiquity, have often succeeded by their magic in subduing the brutality of peoples and bringing them closer to true human dignity; how should they not accomplish the same in the latest centuries, at least in individuals receptive to their enthusiasm?"
+para51s27,Plutarch.
+para51s28,in Coriol.
+para51s29,T I.
+para51s30,p.
+para51s31,214 B.
+para51s32,"For there is no other pleasure for men to enjoy than to tame nature by reason and education, by reason of which the mean and the pure are purged."
+para51s33," One of the hundred passages wherein the ancients describe the effect of their muses and their arts, and one of those which cannot well be misunderstood or applied to the chorus of more recent arts."
+para51s34,"In the well-known words, didicisse fideliter artes, the highly necessary ingenuas has been omitted out of love for the common good."
+para52s0,We have elsewhere rejected that the researcher of antiquity should write works similar to the ancients in one of their languages.
+para52s1,"Should such a thing be demanded in literature, in prose or poetry, why then less in art ?"
+para52s2,"But who would be able to do so much, who would not be able to match the ancients in the manner of their productions alone."
+para52s3,"If he were to emulate the artist not only with his own tools but also with theirs, he would leave his sphere as a litterateur, and, what nature otherwise denies the scholar, he would become active as an artist himself."
+para52s4,"Enough examples of this have been seen in those days when the writings of antiquity first stirred their readers to affectionate admiration; but few have found the right way, several have deterred the wise from such ventures by unfortunate choice of subjects, by petty imitation, by strange use of language, or by denial of all their own character and style."
+para52s5,"Although the scholar of antiquity now refers to the fame of the Scaliger, one has heard of Jos."
+para52s6,"Scaliger several Greek translations of poems of Virgilius , Martialis u."
+para52s7,"a., of which hardly a Quintus Sinyrnaeus or Nonnus should be ashamed."
+para52s8,They are available in a rare edition Lat.
+para52s9,"and Gr. poems, which I cannot specify at present."
+para52s10,"Rhodomane, Murete, Lotiche, Perpiniane and Lagomarsini, and indeed in newer languages can often present more sense and knowledge of antiquity than some in a tolerable flow of Latin words and phrases; so we would nevertheless not want to exclude from the points of view, which the whole study must reserve for itself, this one, which makes us most intimately familiar with the characteristic way of thinking of the ancients."
+para52s11,"For not translations, otherwise a very useful business, can effect this to the same extent, even worked with the artful fidelity of our Voss; the other kind, which tries to nestle closer to our languages, even leads away from the art of thinking in an old language."
+para52s12,"After the text was written, we remembered some, partly foreign, voices about the above point, of which a few of the most unsuspicious may have their say here."
+para52s13,D'Alembert on the Latinity of modern T.
+para52s14,V.
+para52s15,Melanges p.
+para52s16,561.
+para52s17,"As much as it would be desirable that one never writes works of taste except in one's own language, it would also be useful that works of science, such as geometry, physics, medicine, even erudition, be written only in Latin, that is to say in a language that it is not necessary in these cases to speak elegantly, but which is familiar to almost all those who apply themselves to these sciences, in whatever country they may be placed."
+para52s18,"This is a wish we made long ago, but we do not expect to see it fulfilled."
+para52s19,"Most of the geometers, physicists, doctors, and most of the Academies of Europe, write today in the vulgar language."
+para52s20,Even those who want to fight against the torrent are forced to give in to it.
+para52s21,"We shall therefore content ourselves with exhorting the scholars and literary bodies who have not yet ceased to write in Latin, not to lose this useful usage."
+para52s22,"Otherwise it would soon be necessary that a geometrician, a physician, a physicist, be instructed in all the languages of Europe, from Russian to Portuguese; and it seems to me that the progress of the exact sciences must suffer from this."
+para52s23, Algarotti Works T.
+para52s24,VIII.
+para52s25,p.
+para52s26,"172 Let each one write in, his own language things pertaining to 'eloquence , to poetry, to the provinces , I will say so, which are subject to 'ingenuity ; that in his own language alone he will be able in that genre to dictate what is the delight of his contemporaries , and is to pass to posterity."
+para52s27,"But dealing with scientific things , things useful or necessary to civilized company, it would be to be wished that in each country men of letters would all agree to write in a language common to all peoples."
+para52s28,"The Latin language, which is nevertheless the repository among the nations of Europe of religio ne and laws, is still the repository of findings in physics, medicine, and the arts, which would do great harm if they remained long buried in one favella before reviving in another."
+para52s29,"And already there will be no danger, that modern Latin books will come to overfill our libraries."
+para52s30,"At last let it be adopted in this as is customary in factories intended for the uses of the public , that an almost identical model be followed by all; but let each person and architects dispose his own dwelling at his own post."
+para52s31,"Of our learned countrymen, who since the middle of the last seculum have urged the retention of the old custom and better confirmed the advice of such foreigners by their example, Mosheim in particular stood out among those who at the very beginning declared themselves against the too extensive use of the mother tongue, a man whom Germany also counts among its first better speakers, in the Commentatt."
+para52s32,et Oratt.
+para52s33,was.
+para52s34,argum.
+para52s35,(Hamb.
+para52s36,1751.
+para52s37,8.) p.
+para52s38,"302, 309, 316, 333 seqq."
+para52s39,"Furthermore, Göttingen was almost alone in Europe in retaining a society of sciences that made unchanging use of the Latin language."
+para52s40, but of the intrinsic value of such exercises.
+para52s41,"Without these exercises, we would obviously not have acquired so much knowledge of ancient Latin, not so much familiarity with its peculiarities, with the delicate nuances of word meanings and synonymies, with the rules about the position of words and sentences and the whole period structure; which has happened less in the Greek language by the moderns precisely because they wrote in this so rarely, and neglected the thing itself as a mere exercise."
+para52s42,"For only the writer takes full possession of the strange way of turning and expressing his thoughts: By treating the dead language as living with leisurely diligence, he approaches, as far as this is possible, the feeling in it; by taking more perfect linguistic forms frequently into mind and pen, he gets used to perfecting the patriotic one, too; finally, the exquisite society in which the Latin writer enters, produces many higher virtues of style, which in our languages still seldom want to flourish as desired."
+para52s43,"To those who have doubted at all whether it is possible today to master Latin to the point of writing, a German refutation of the delusion would seem somewhat suspicious; to us, however, the opposite seems so true that the attainment of a fair degree of perfection even seems possible."
+para52s44,"This is true primarily of subjects about which the ancients also wrote: But if someone knew how to distinguish with a fine feeling what is a general analogy in a language and what was the taste of the time or the personal idiosyncrasy of certain writers, he would be able to write more than clearly about some modern objects for a Roman who has been taught our manners, perhaps even to form a lecture from the most diverse writings of a long period of time, which would be at the same time ancient and of peculiar novelty; how the modern sculptor can succeed in representing the ideals of ancient art according to their original patterns, often in the same type of stone, with a new spirit."
+para52s45," What has been said here contradicts an opinion which is said to be held by some humanists now, since d'Alembert has expressed it most crudely in the essay mentioned above."
+para52s46,"The astonishing man knows there the second golden age of Latinity in the newer Europe so little that he puts up instead of his own countrymen and all today's Latinists a single vir obscurissimus, un Professeur de Seconde au College du Plessis , nommé Marin: in the whole writing, however, he gives such blossoms that nobody will like to get involved in denials against him, in which one would have to secrete also some good remarks."
+para52s47,"Vorsichtiger drückt sich über mehreres Algarotti aus , sopra la necessità di scribere nella propria lingua , Opere T."
+para52s48,IV.
+para52s49, 
+para53s0,"  So far, according to the main tendencies, reaches the effect of all those knowledge and occupations on the harmonious formation of our noblest powers; much farther, it seems, than the influence of any other art or science."
+para53s1,"From some such sciences, exclusively pursued and without exhilarating arts of the muses, good observers even want to worry about a sullen one-sidedness (the like of which was otherwise gladly attributed to philologists), a certain narrowness in general insights."
+para53s2,"However, the purposes and points of view of the study of antiquity that have been established up to now refer more to the way in which acquaintance with the sources of these is obtained than to the conception of the things that lie in them, of which the quite real disciplines consist."
+para53s3,"However, it would hardly be necessary to prove the importance of this knowledge for our readers, both in itself and for the satisfaction of a curiosity concerned with the fate of mankind, as well as because of its connection with the state of the present European culture."
+para53s4,"Otherwise, it would still have to be explained how the ideal direction of the mind, the first condition of all higher education, is based primarily on such knowledge."
+para53s5,"To speak on this occasion of a part of the ancient history of nations, where are found in such great number the most powerful natures, the most instructive incidents and deeds, examples of sublime virtues and vices, upheavals of states and constitutions, where so many opportunities to contemplate the lives of freely acting men in the most memorable circumstances, than in the annals of the Greeks and Romans?"
+para53s6,"What variety of political institutions we see tried there everywhere since the first family associations had passed over into more or less republican states , from which we get to know the most composite of all human arts in their simple forms, and not under arbitrary arrangements, but in natural growth from their soil ! Finally, there are several points of time of the old, especially of the Roman history, without whose closer knowledge not even the origin and consequence of the later greater world events can be understood properly."
+para53s7,"The case is no different in our literary world, where the foundation on which the colorful edifice of our knowledge and arts stands still shows many traces of its Greek and Roman origin, however much the New European peoples have vied to uproot the foundation and to deprive their edifices of all harmonious character and national idiosyncrasy."
+para54s0,"The above mentioning of the value of the real doctrines opens the access to the last goal of all efforts connected in one, which has already been hinted at from time to time, to what the priests of Eleusis called the epoptia or vision of the holiest."
+para54s1,"The individual gains we have indicated are basically only like preparations for the one to be acquired here, and all previous views converge to this most noble goal as to a central point."
+para54s2,"But this goal is no other than the knowledge of ancient mankind itself, which knowledge arises from the observation of an organically developed meaningful national formation conditioned by the study of the ancient remains."
+para54s3,"No lower point of view than this can justify general and scientific research on antiquity; and to it are subordinated partly others, partly the ordinary one, which refers to the knowledge of the beautiful and classical works of the genres worked on by the ancients, as which lies at the basis of the so-called Humaniora."
+para54s4,"For this determination, in fact, only a selected number of written and other works can serve; in the case of the latter, however, all ancient remains are united, regardless of whether one has greater or lesser or no classicity at all, together with every kind of content and information in them, which point to observable peculiarities of times and people."
+para55s0,"When we speak of knowledge of human nature, we generally mean something of limited value and scope; namely, a certain routine that is derived from dealing with many individuals and is again useful for dealing with them, as well as for the beneficial handling of the ordinary business of public and private life."
+para55s1, That for this purpose the sometimes thorny erudition is not of much use is shown by experience; it does not require the study of national literature; a small number of wise guides through world life and one's own observations are sufficient for such intentions.
+para55s2,"But here we speak of the knowledge of man, of the empirical knowledge of human nature, its original forces and directions and all the determinations and limitations which these receive sometimes through each other, sometimes through the influence of external circumstances."
+para55s3,"In order to raise us to this exquisite knowledge of man, which, like all other empirical observations of nature, stimulates every class of scholars and every state, even the most unbusinesslike, yes, by its object, the moral man, with greater strength, The general interest of the above tendency will perhaps be brought nearer to some readers, if I here communicate some thoughts of a scholar, scattered in a correspondence, συμφιλολογοῦντός τινός ποθ' ἡμῖν καλοῦ κἀγαθοῦ, such as one finds in our times most rarely among men of his rank."
+para55s4,"The fragments available to me by a pleasant coincidence are indeed from the year 1788, but this does not deprive them of the novelty that will have everything that the author, who researches in history and philosophy with the brightest eye and the deepest sense, withholds from the public for too long."
+para55s5," The contemplation of the works of antiquity is certainly most fruitful when one looks not only at them, but also at their authors and the periods from which each originates."
+para55s6,"Only this way of looking at things can lead to a true philosophical knowledge of mankind, in so far as it requires us to investigate the condition and the complete situation of a nation and to grasp all sides of it in their great coherence, The striving for such a knowledge (since no one can hope for the actual completion of it) can be called indispensable to every man, as a human being, in various degrees of intensity and extension indispensable, not only to the acting one, but also to the one occupied with ideas, the historian in the broadest sense of the word, the philosopher, the artist, even the merely enjoying one."
+para55s7,"To speak of the man in the larger practical life: if he is really mindful of the highest end of all morality, the growing ennoblement of man, he will be better instructed by no study what he may morally undertake, and politically may undertake with success; so that from this side his mind is guided."
+para55s8,But his will is also guided by it.
+para55s9,"All imperfections of man can be traced back to disproportions of his powers: by that study showing him the totality, the imperfections are to a certain extent abolished, and at the same time the necessity of their emergence and the possibility of their compensation appear, by which the individual, who was previously regarded one-sidedly, is, as it were, placed in a higher class after this overview."
+para55s10,"Actually, nothing could be said of the merely enjoying man, since the obstinacy of the enjoyment does not assume any rule."
+para55s11,"But I put myself here in the place, not exactly of the noblest people, but of the people in their noblest moments."
+para55s12,In these now the most perfect joys are those which one receives through self-contemplation and through contact in its manifold gradations.
+para55s13,"The higher such pleasures are, the sooner they are destroyed without a keen apprehension of the being of ourselves and others: but this is not possible without penetrating study of man in general."
+para55s14,These pleasures are joined by those which are granted by the aesthetic enjoyment of the works of nature and art.
+para55s15,"These act primarily by arousing the sensations that are awakened by the external figures, as by symbols."
+para55s16,"The more vivid views of possible human sensations are at our disposal, the more external figures the soul is receptive to."
+para55s17,"Even the sensual pleasure is thus multiplied, increased and refined, in that the imagination adds to it the rich spectacle of its possible diversity according to the diversity of the enjoyer, and in that it thereby unites, as it were, several individuals into one."
+para55s18,"Finally, such a view diminishes the feeling of real unhappiness as well."
+para55s19,"The suffering , like the vice , is, more closely considered, always only partial: who has the whole before eyes, sees how it raises there, if it strikes down here."
+para55s20," and in order to achieve the purposes of such knowledge in the most complete way possible, our gaze must be directed persistently to a great nation and to its course of formation in the most important relations and relationships."
+para55s21,"Here, peoples take the place of individuals; and what in the case of the latter the depiction of a peculiar life accomplishes, in the case of the former a painting of their whole national being, growing out of innumerable scattered traits, a painting which eager occupation with all the works of literature and art of a nation tries to draw from the state of the same according to its most interesting sides and in the most substantial moments."
+para55s22,"However, knowledge of this kind is less communicable than most others; it is similar to all philosophy in that it promotes and rewards only those who make a study of it and are occupied with its continued acquisition."
+para55s23,"But it is precisely this that gives this study an irresistible attraction, if we pursue science not as a burden of office, not as a shortening of time, but for its own sake; especially since, as we have seen, the leading paths are so rewarding in themselves, and since, if the attention always strives toward that goal, new occasions for the perfect elevation of all our spiritual and mental powers are gained thereby."
+para55s24,"For in order to grasp with truth the life and essence of an excellently organized and diversely educated nation, in order to draw back into the view of the present the figures that have long since disappeared, we must summon up our powers and abilities to united activity; in order to take up within ourselves a quantity of foreign forms that seems infinite, it becomes necessary to exterminate our own as far as possible and, as it were, to go out of the whole of our accustomed being."
+para55s25,"From this, however, arises a versatility of thought and feeling which, from a scientific point of view, becomes for us moderns a more beautiful stage of spiritual culture than it is for the man of the world the skill of adopting unfamiliar forms which he believes to be appropriate to his intentions."
+para58s0,"It could seem that the higher knowledge of man, so sought after, would have to reach perfection most of all through the occupation with all independent nations."
+para58s1,"But without thinking of the infinity of such a study, we are already limited by the effort for pure and solid results to a small number of peoples."
+para58s2,"For in old as well as in new times, those peoples are not to be used for the purpose described, who in the progress of their education are often promoted from abroad, often held back, generally modified in various ways, and present all too few traits of a peculiar nature, even if they should claim the most respectable rank with regard to real knowledge; Just as little also such peoples, who have stopped in one-sided development and with that kind of civilization, which subordinates all scientific and spiritual culture to the most urgent need of their existence and misuses the ennobling knowledge, the free arts once named by free citizens, only for a glissade of their unpleasant interior."
+para58s3,"Nations of this and similar kind are left to the political history, which has to fill its spaces according to square miles, and partly also to the history of mankind according to its since then usual treatment, according to which it is more concerned with human species than with human nature."
+para58s4,"Among the ancient nations, the Romans are not the most desirable material for our study, just as they originally followed some of the one-sided directions that have been imposed on the most esteemed peoples in recent centuries."
+para58s5,"Only in ancient Greece can be found what we elsewhere seek in vain almost everywhere, peoples and states which possessed in their nature most of those qualities which form the basis of a character perfected to genuine humanity; Peoples of such general irritability and receptivity that nothing was left untried by them for which they found any stimulus in the natural course of their education, and who continued this course more independently of the influence of other-minded barbarians and far longer than would have been possible in subsequent times and under changed circumstances; until Philip of Macedonia and his son."
+para58s6,"Since then, ancient Greek literature and art ceased, and the nation itself in its most flourishing branches, a deeply moving spectacle."
+para58s7,"But from the nutritive juices that had nurtured the otherwise green tree, the offspring of new shoots still fed for a thousand and a half years, and it still gave in late times in many places individual nobles refreshment against sultry air."
+para58s8,"This lasted until the fifteenth century, when the Greek Muses took refuge in Italy for the second time."
+para58s9,"   who, above the cramped and constricting concerns of the citizen, so little forgot man that the civic institutions themselves, to the detriment of many and with very general sacrifices, aimed at the free development of human powers in general; who, with an extraordinarily tender feeling for the noble and the beautiful in the arts, gradually combined such a great extent and so much depth in scientific investigations that, among their remnants, besides the living imprint of that rare quality, they at the same time established the first most admirable models of ideal speculations."
+para58s10, Let me now touch only on some of the features that distinguish the Greeks from other peoples and make the most accurate knowledge of their nationality important to the most beautiful purposes of our studies.
+para58s11,"I would like to count first of all the richness of manifold forms, which showed itself in their whole culture; with which such a formation of the character is connected, as it can be and should be in every situation of the human being, without consideration of individual differences and changing circumstances."
+para58s12,"The human being, which the Greek writers present to us, is composed of many simple and great and, seen from many points of view, also beautiful features."
+para58s13,"The study of a character like the Greek must have a particularly salutary effect in an age where, through innumerable circumstances, attention is directed rather to things than to men, more to masses of men than to individuals, more to external value and utility than to inner content and enjoyment, and where high and manifold culture has led very far away from the first simplicity; in such times it must be very salutary to look back on nations in which all this was almost exactly the reverse."
+para58s14,The writings and works of art of the Greeks bear everywhere the most excellent traces of the individuality of their ages and authors.
+para58s15,"This is evident in their language, as in all their original spirit-products."
+para58s16,"Their history is mostly Greek; and, where it is not, at least the early historians are not yet accustomed to compare several peoples with each other, and to sharply separate what is their own from what is foreign, and they are also too busy with everything native, so that the Greek should not often see through."
+para58s17,"In Greek history itself, a confluence of many circumstances, e.g.."
+para58s18,B.
+para58s19,"the greater influence of individuals on the affairs of state, the connection of the religious state with the political and the domestic with the religious, the smaller scope of the story itself, which allowed for a more extensive detail, partly also the somewhat childish ideas of curiosity and importance -- that there the story contains by far more character and moral descriptions than ours."
+para58s20,"The most distinguished types of Greek poetry arose from public customs and institutions, at festivals, sacrifices, banquets, and so on."
+para58s21,s.
+para58s22,"w.; and so they kept a veneer of this historical, not actually aesthetic origin until late times."
+para58s23,Philosophy should at least bear traces of the philosophizer's idiosyncrasy: but practical philosophy always showed the Greeks to a high degree; and speculative philosophy did so at least for a very long time.
+para58s24,Another important fact for the appreciation of the nation is this.
+para58s25,"The Greek in that time, where we first get to know him more completely, is still on a low level of culture."
+para58s26,"In that state, his greatest care went only to the development of his personal powers: therefore, where he acted or suffered, his whole being was all the more united in activity, since he was especially affected by sensuality and was most strongly seized by it."
+para58s27,"But with this sensuality, which gave him such a great inner mobility, was connected exactly something that is perhaps unique in all history."
+para58s28,"When the nation had not yet completely helped itself out of the state of crudeness, it already possessed an uncommonly fine feeling for every beauty of nature and art and a correct taste, not of criticism but of feeling; and again, when it had already passed the age of manhood, we find in it still a faithful preservation of that original simple sense."
+para58s29,"Therefore, the care for the spiritual education remained inseparable from that for the physical education, and always guided by ideas of beauty."
+para58s30,Admirable here is especially the very general spread of the feeling for beauty among the whole nation; and nothing can be more important for our world than a comprehension of this characteristic trait.
+para58s31,"For no kind of education is more indispensable than this, since it sums up the whole nature of man and gives him the true polish and nobility; especially in our country, where there is such a large number of directions that must be quite removed from all taste and sense of beauty."
+para58s32,"In the best times of Athens (and to this state, as to the most highly educated, we must also return the most). In Athens, with such a mindset, the free constitution itself made such a diverse education necessary."
+para58s33,"The people, before whom the statesman appeared, not only yielded to the nature and strength of his reasons; they also looked at the form, at the organ, at physical decency: so no side remained for him to neglect with impunity."
+para58s34,"But the qualities he had to strive for were all related to purely human and general education, not to the culture of particular talents or knowledge."
+para58s35,The same qualities that made the Greek a great man also made him a great statesman.
+para58s36,"Thus, while taking part in public affairs, he only continued to educate himself."
+para58s37,"But in order to derive the fullest benefit from the knowledge of the Greeks, it is necessary to dwell longest not only on the periods in which the nation gained the finest education, but also, just the opposite, especially on the earliest periods."
+para58s38,"For in these lie the most fertile germs of the peculiarly beautiful character of the Greeks; and it is more instructive and easier to perceive in consequence how this character gradually changed and finally degenerated, than vice versa."" From the correspondence mentioned earlier."
+para58s39," By commenting, as it were, on a piece of our text, these thoughts, some of which are developed in more detail, may at the same time prove how much the author of the same has learned from the oral and written conversations of such a friend."
+para58s40,"  In these and other respects, among all nations, none is so important, indeed, one may say, so sacred, to the investigator of the history of mankind as the Greek."
+para58s41,"  She may nevertheless occupy a rather subordinate place with the statistician, who keeps other rankings for human worth, because she was neither addicted to conquest nor shone as a political body next to the mighty empires; Since ancient times, she has made herself highly deserving for the human race by the most glorious victories, more lasting than victories in arms; this fame, the only one she strove for, which she also enjoyed with her here just conquerors, she still proves today and for all times by so many remaining monuments of her spiritual effectiveness."
+para58s42,We were not fortunate enough to get to know this highly favored nation in its wonderful existence and work in many parts of the world from every side; which would have been the case if the ravages of time and barbarism had only left some of the most numerous book collections to later centuries.
+para58s43,"However, even now, with all the loss we have suffered in works of their literature and art, we are, through the representations which the remains provide us with, richer for the highest purpose of our study than even in the case of many a still flourishing nation, and see in those representations a more faithful picture of their national character and life spread out before us; so that it is actually only here that we are given the spectacle of an organic national education."
+para58s44,For among what people in the world today could we hope to find anything similar?
+para58s45,"Where would one be that had gained its culture from inner strength, that had created the arts of beautiful speech and sculpture from national feelings and customs, that had built its sciences on peculiar ideas and views?"
+para58s46,"On the contrary, we find by far the most in our literatures laboriously collected from unequal sources, sometimes directly sometimes indirectly from the ancients, which is considered as noble robbery, much more often theft by exchange of the moderns among each other, everywhere a mixture of contending materials and forms : In the arts, there is only little, often no originality; more creations according to general theories, more imitations according to foreign patterns, than independent productions, which could become for others what the works of the Greeks are for us; in all scientific enlightenment, finally, there are immense stocks of knowledge and insights, treasures from all ages and countries, which one nation hands to the other and takes from them, but in the midst of these treasures, few traces of a prevailing spirit, in which one recognizes a nation and man."
+para64s0,"This is then the center of all studies of antiquity, the goal to which the larger and smaller researches belonging to it tend."
+para64s1,"This goal may remain distant to many, perhaps forever unknown to most; but it is the only true and worthy one, the one according to which, in doubtful cases, the merit of individual efforts, the processing of special parts and objects is to be appreciated."
+para64s2,"Our antiquity, conceived as a whole, is, as it were, a self-contained world; as such it touches each kind of observer in its own way, and offers others other things to educate and exercise their faculties, to broaden their knowledge by what is worth knowing, to sharpen their sense of truth, to refine their judgment of beauty, to give measure and rule to their imagination, to awaken and balance the whole powers of the soul by attractive tasks and modes of treatment."
+para64s3,"Fortunately, this world now and then opens its instructive and entertaining view to the younger age with the promise of manifold profit; and the unspoiled youth easily enjoys it under a good guide, whom many of the most witty writers captivate by their unconscious grandeur, others, with all the depth of their content, appeal to by pure natural simplicity without great previous knowledge as comprehensibly as is sufficient for the first acclimatization to a foreign way of thinking and feeling."
+para64s4,"This means of education will soon return to the Germans in all regions of the fatherland, before and in addition to other scholarly instruction, what it was in earlier times, and something even better."
+para64s5,"If perhaps our times have invented more pleasing ways of teaching, the value of the means will be considerably increased; although even in the worst case appropriately chosen writers themselves take on the role of teachers, and by the occupations with them possible to the first age have a powerful effect on a sensitive soul."
+para64s6,"True and beautiful said recently a favorite author of our nation, who owes much more to himself than to the ancients: ""The present humanity would sink unfathomably low, if the youth did not take the passage to the fair of life through the silent temple of the great old times and people."
+para65s0,"However, the science outlined here is no more helped by such promotion of humanistic knowledge than philosophy by popular treatment of the wisdom of life, or any other science by drawing its most useful truths into public instruction."
+para65s1,"At times, the scholarly and thorough treatments were rather disadvantaged by this, and superficiality was the consequence of the spread."
+para65s2,"Many phenomena, even in the writings of respectable scholars, make us fear something similar for our science already for a long time."
+para65s3,"The most detrimental of these phenomena is the endless endeavor, in all the history of antiquity, especially in the languages, to bring together individual things as individual things, without taking hold of firm general principles, without grasping even an inkling of the spirit that forms all the individual things into a harmonious whole."
+para65s4,"As a result, uncertain concepts, wavering opinions, and inconsistencies accumulate to the confusion of anyone who wants to look for something scientific here; indeed, they themselves, the collectors thus occupied, will be inclined to think very little of their efforts in comparison with the stricter disciplines, and, according to the limitedness of their ideas, if ideas are otherwise to be attached to them, to measure the limits of science, or rather to abandon the whole enterprise of their incoherent knowledge as science."
+para65s5,"But the denial of this and similar errors, from which the dignity of philological and antiquarian studies has suffered for a long time, belongs to the investigation of the best way of treating them and their highest laws, a subject which lies outside our present intention."
+para66s0,W.
+para67s0, The book is a collection of the most important books in the field of ancient science.
+para67s1, I.
+para67s2,Philosophical linguistic doctrine or general principles of both ancient languages.
+para67s3,II.
+para67s4,Grammar of the Greek Language.
+para67s5,III.
+para67s6,Grammar of the Latin Language.
+para67s7,IV.
+para67s8,Principles of the philological art of interpretation.
+para67s9,V.
+para67s10,Principles of philological criticism and improvement art.
+para67s11,VI.
+para67s12,Principles of prosaic and metrical composition or theory of writing and metrics.
+para67s13,VII.
+para67s14,Geography and Üranography of the Greeks and Romans.
+para67s15,VIII.
+para67s16,The first part of the book is a book about the history of the world.
+para67s17, IX.
+para67s18,Principles of ancient chronology and historical criticism.
+para67s19,X.
+para67s20,"Greek Antiquities or History of the States, Constitutions, and Customs of the Most Noble States and Peoples of Greece."
+para67s21,XI.
+para67s22,Roman Antiquities or Antiquity of Rome and Ancient Roman Law.
+para67s23,XII.
+para67s24,Mythology or fabulology of the Greeks and Romans.
+para67s25,XIII.
+para67s26,Litterarhistorie der Griechen oder äussere Geschichte der Griechischen Litteratur.
+para67s27, XIV.
+para67s28,Roman Litterarhistorie oder äussere Geschichte der Römischen Litteratur.
+para67s29,XV.
+para67s30,History of the verbal arts and sciences among the Greeks.
+para67s31,XVI.
+para67s32,History of the verbal arts and scientific knowledge among the Romans.
+para67s33,XVII.
+para67s34,Historical note of the mimetic arts of both peoples.
+para67s35,XVIII.
+para67s36,Introduction to the Archaeology of Art and Technology or Note of the Remaining Monuments and Works of Art of the Ancients.
+para67s37,XIX.
+para67s38,The book is a collection of books on the subject of archaeology and art.
+para67s39,XX.
+para67s40,General history of the art of antiquity.
+para67s41,XXI.
+para67s42,Introduction to the knowledge and history of ancient architecture.
+para67s43,XXII.
+para67s44,Numismatics or coinage of the Greeks and Romans.
+para67s45,XXIII.
+para67s46,Epigraphy or epigraphy of both peoples.
+para67s47,XXIV.
+para67s48,"The book is a translation of the original German text, which was published in the same year as the original German text."
+para67s49, 
+
